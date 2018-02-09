@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{64037949-BBF2-4680-B9F1-999DC9D5C63A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Assembly-CSharp</RootNamespace>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\lv_1056\assets\bin\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>..\..\lv_1056\assets\bin\Data\Managed\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\lv_1056\assets\bin\Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>..\..\lv_1056\assets\bin\Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing">
+      <HintPath>..\..\lv_1056\assets\bin\Data\Managed\UnityEngine.Purchasing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AchieveButton.cs" />
+    <Compile Include="AchieveDataBase.cs" />
+    <Compile Include="AchieveDataFormat.cs" />
+    <Compile Include="AchieveScrollView.cs" />
+    <Compile Include="AdMobManager.cs" />
+    <Compile Include="AlbumPagePanel.cs" />
+    <Compile Include="AnmAction.cs" />
+    <Compile Include="AnmAnimation.cs" />
+    <Compile Include="AnmAnimationObj.cs" />
+    <Compile Include="AnmData.cs" />
+    <Compile Include="AnmFrame.cs" />
+    <Compile Include="AnmModule.cs" />
+    <Compile Include="AnmSequence.cs" />
+    <Compile Include="AnmSprite.cs" />
+    <Compile Include="AudioManager.cs" />
+    <Compile Include="BagDeskPanels.cs" />
+    <Compile Include="BagPanel.cs" />
+    <Compile Include="BagPanelButton.cs" />
+    <Compile Include="BigEndianBinaryReader.cs" />
+    <Compile Include="BlockPanel.cs" />
+    <Compile Include="BtnHoldChecker.cs" />
+    <Compile Include="ButtonOpenContentsPanel.cs" />
+    <Compile Include="ByteConverter.cs" />
+    <Compile Include="CameraPanel.cs" />
+    <Compile Include="CharacterDataBase.cs" />
+    <Compile Include="CharacterDataFormat.cs" />
+    <Compile Include="CharaObject.cs" />
+    <Compile Include="CharaTable.cs" />
+    <Compile Include="ClickHandler.cs" />
+    <Compile Include="Clover.cs" />
+    <Compile Include="CloverDataFormat.cs" />
+    <Compile Include="CloverFarm.cs" />
+    <Compile Include="CloverPanel.cs" />
+    <Compile Include="CollectionButton.cs" />
+    <Compile Include="CollectionDataBase.cs" />
+    <Compile Include="CollectionDataFormat.cs" />
+    <Compile Include="CollectionMovePanel.cs" />
+    <Compile Include="CollectionScrollView.cs" />
+    <Compile Include="Collection\Rare.cs" />
+    <Compile Include="Collection\ShowType.cs" />
+    <Compile Include="ConfilmPanel.cs" />
+    <Compile Include="DebugButton.cs" />
+    <Compile Include="DebugScrollView.cs" />
+    <Compile Include="Define.cs" />
+    <Compile Include="DetailPanel.cs" />
+    <Compile Include="DisplayItemButton.cs" />
+    <Compile Include="DisplayPanel.cs" />
+    <Compile Include="EventTimerFormat.cs" />
+    <Compile Include="EventTimerManager.cs" />
+    <Compile Include="FadeController.cs" />
+    <Compile Include="FlagListFormat.cs" />
+    <Compile Include="Flag\Sign.cs" />
+    <Compile Include="Flag\Type.cs" />
+    <Compile Include="FlickCheaker.cs" />
+    <Compile Include="Frog.cs" />
+    <Compile Include="FrogNamePanel.cs" />
+    <Compile Include="FrogStatePanel.cs" />
+    <Compile Include="GameMaster.cs" />
+    <Compile Include="GameMaster_Album.cs" />
+    <Compile Include="GameMaster_MainIn.cs" />
+    <Compile Include="GameMaster_MainOut.cs" />
+    <Compile Include="GameMaster_Present.cs" />
+    <Compile Include="GameMaster_Raffle.cs" />
+    <Compile Include="GameMaster_Shop.cs" />
+    <Compile Include="GameMaster_Tmp.cs" />
+    <Compile Include="GetServer.cs" />
+    <Compile Include="GoogleMobileAds\Android\AdLoaderClient.cs" />
+    <Compile Include="GoogleMobileAds\Android\BannerClient.cs" />
+    <Compile Include="GoogleMobileAds\Android\CustomNativeTemplateClient.cs" />
+    <Compile Include="GoogleMobileAds\Android\InterstitialClient.cs" />
+    <Compile Include="GoogleMobileAds\Android\MobileAdsClient.cs" />
+    <Compile Include="GoogleMobileAds\Android\NativeExpressAdClient.cs" />
+    <Compile Include="GoogleMobileAds\Android\RewardBasedVideoAdClient.cs" />
+    <Compile Include="GoogleMobileAds\Android\Utils.cs" />
+    <Compile Include="GoogleMobileAds\Api\AdFailedToLoadEventArgs.cs" />
+    <Compile Include="GoogleMobileAds\Api\AdLoader.cs" />
+    <Compile Include="GoogleMobileAds\Api\AdPosition.cs" />
+    <Compile Include="GoogleMobileAds\Api\AdRequest.cs" />
+    <Compile Include="GoogleMobileAds\Api\AdSize.cs" />
+    <Compile Include="GoogleMobileAds\Api\BannerView.cs" />
+    <Compile Include="GoogleMobileAds\Api\CustomNativeEventArgs.cs" />
+    <Compile Include="GoogleMobileAds\Api\CustomNativeTemplateAd.cs" />
+    <Compile Include="GoogleMobileAds\Api\Gender.cs" />
+    <Compile Include="GoogleMobileAds\Api\InterstitialAd.cs" />
+    <Compile Include="GoogleMobileAds\Api\Mediation\MediationExtras.cs" />
+    <Compile Include="GoogleMobileAds\Api\MobileAds.cs" />
+    <Compile Include="GoogleMobileAds\Api\NativeAdType.cs" />
+    <Compile Include="GoogleMobileAds\Api\NativeExpressAdView.cs" />
+    <Compile Include="GoogleMobileAds\Api\Reward.cs" />
+    <Compile Include="GoogleMobileAds\Api\RewardBasedVideoAd.cs" />
+    <Compile Include="GoogleMobileAds\Common\DummyClient.cs" />
+    <Compile Include="GoogleMobileAds\Common\IAdLoaderClient.cs" />
+    <Compile Include="GoogleMobileAds\Common\IBannerClient.cs" />
+    <Compile Include="GoogleMobileAds\Common\ICustomNativeTemplateClient.cs" />
+    <Compile Include="GoogleMobileAds\Common\IInterstitialClient.cs" />
+    <Compile Include="GoogleMobileAds\Common\IMobileAdsClient.cs" />
+    <Compile Include="GoogleMobileAds\Common\INativeExpressAdClient.cs" />
+    <Compile Include="GoogleMobileAds\Common\IRewardBasedVideoAdClient.cs" />
+    <Compile Include="GoogleMobileAds\Common\Utils.cs" />
+    <Compile Include="GoogleMobileAds\GoogleMobileAdsClientFactory.cs" />
+    <Compile Include="HelpPanel.cs" />
+    <Compile Include="IAPListenerPanel.cs" />
+    <Compile Include="IAPPanel.cs" />
+    <Compile Include="IAPPayFormatChanger.cs" />
+    <Compile Include="InfoPanel.cs" />
+    <Compile Include="IOSLocalNotification.cs" />
+    <Compile Include="ItemButton.cs" />
+    <Compile Include="ItemDataBase.cs" />
+    <Compile Include="ItemDataFormat.cs" />
+    <Compile Include="ItemListFormat.cs" />
+    <Compile Include="ItemScrollView.cs" />
+    <Compile Include="Item\EffectElm.cs" />
+    <Compile Include="Item\EffectType.cs" />
+    <Compile Include="Item\Type.cs" />
+    <Compile Include="LogoScene.cs" />
+    <Compile Include="LotteryWheel.cs" />
+    <Compile Include="LotteryWheelPanel.cs" />
+    <Compile Include="MailButton.cs" />
+    <Compile Include="MailEventDataBase.cs" />
+    <Compile Include="MailEventFormat.cs" />
+    <Compile Include="MailScrollView.cs" />
+    <Compile Include="MailWindow.cs" />
+    <Compile Include="Mail\EvtId.cs" />
+    <Compile Include="MainCamera.cs" />
+    <Compile Include="MapEdgeButton.cs" />
+    <Compile Include="MapNodeButton.cs" />
+    <Compile Include="MapPanel.cs" />
+    <Compile Include="MonoPInvokeCallbackAttribute.cs" />
+    <Compile Include="MovePanel.cs" />
+    <Compile Include="NodeConnectDataBase.cs" />
+    <Compile Include="NodeConnectDataFormat.cs" />
+    <Compile Include="NodeDataBase.cs" />
+    <Compile Include="NodeDataFormat.cs" />
+    <Compile Include="NodeEdgeDataBase.cs" />
+    <Compile Include="NodeEdgeDataFormat.cs" />
+    <Compile Include="NodeGoalDataBase.cs" />
+    <Compile Include="NodeGoalDataFormat.cs" />
+    <Compile Include="NodeItemDataBase.cs" />
+    <Compile Include="NodeItemDataFormat.cs" />
+    <Compile Include="NodePrefDataBase.cs" />
+    <Compile Include="NodePrefDataFormat.cs" />
+    <Compile Include="Node\AreaType.cs" />
+    <Compile Include="Node\EventType.cs" />
+    <Compile Include="Node\NodeType.cs" />
+    <Compile Include="Node\WayType.cs" />
+    <Compile Include="NumObjCreater.cs" />
+    <Compile Include="ObjectMaster.cs" />
+    <Compile Include="ObjectMaster_Album.cs" />
+    <Compile Include="ObjectMaster_MainIn.cs" />
+    <Compile Include="ObjectMaster_MainOut.cs" />
+    <Compile Include="ObjectMaster_Present.cs" />
+    <Compile Include="ObjectMaster_Raffle.cs" />
+    <Compile Include="ObjectMaster_Shop.cs" />
+    <Compile Include="ObjectMaster_Tmp.cs" />
+    <Compile Include="OptionPanel.cs" />
+    <Compile Include="OtherPanel.cs" />
+    <Compile Include="PictureBackDataBase.cs" />
+    <Compile Include="PictureBackDataFormat.cs" />
+    <Compile Include="PictureButton.cs" />
+    <Compile Include="PictureCharaDataBase.cs" />
+    <Compile Include="PictureCharaDataFormat.cs" />
+    <Compile Include="PictureCreator.cs" />
+    <Compile Include="PictureDataBase.cs" />
+    <Compile Include="PictureDataFormat.cs" />
+    <Compile Include="PicturePanel.cs" />
+    <Compile Include="PictureRandomDataBase.cs" />
+    <Compile Include="PictureRandomDataFormat.cs" />
+    <Compile Include="PictureResultPanel.cs" />
+    <Compile Include="PictureTagDataBase.cs" />
+    <Compile Include="PictureTagDataFormat.cs" />
+    <Compile Include="PictureViewPanel.cs" />
+    <Compile Include="Picture\RndType.cs" />
+    <Compile Include="Picture\SaveType.cs" />
+    <Compile Include="Picture\TagType.cs" />
+    <Compile Include="Picture\Type.cs" />
+    <Compile Include="Post.cs" />
+    <Compile Include="PrizeButton.cs" />
+    <Compile Include="PrizeDataBase.cs" />
+    <Compile Include="PrizeDataFormat.cs" />
+    <Compile Include="PrizeListScrollView.cs" />
+    <Compile Include="PrizeScrollView.cs" />
+    <Compile Include="Prize\Rank.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RaffelPanel.cs" />
+    <Compile Include="ResultPanel.cs" />
+    <Compile Include="RollResultButton.cs" />
+    <Compile Include="SaveDataFormat.cs" />
+    <Compile Include="SaveManager.cs" />
+    <Compile Include="Scenes.cs" />
+    <Compile Include="ScriptableDataBase.cs" />
+    <Compile Include="ShopDataBase.cs" />
+    <Compile Include="ShopDataFormat.cs" />
+    <Compile Include="SocialConnector\SocialConnector.cs" />
+    <Compile Include="SocialSender.cs" />
+    <Compile Include="SpecialtyDataBase.cs" />
+    <Compile Include="SpecialtyDataFormat.cs" />
+    <Compile Include="SubMenuPanel.cs" />
+    <Compile Include="SuperGameMaster.cs" />
+    <Compile Include="Support\Define.cs" />
+    <Compile Include="TapEffect.cs" />
+    <Compile Include="TestCreatePictPanel.cs" />
+    <Compile Include="TextureScale.cs" />
+    <Compile Include="TicketPanel.cs" />
+    <Compile Include="TimerEvent\Type.cs" />
+    <Compile Include="TravelResultPanel.cs" />
+    <Compile Include="TravelSimulator.cs" />
+    <Compile Include="TutorialController.cs" />
+    <Compile Include="Tutorial\Flag.cs" />
+    <Compile Include="Tutorial\Step.cs" />
+    <Compile Include="UIMaster.cs" />
+    <Compile Include="UIMaster_Album.cs" />
+    <Compile Include="UIMaster_MainIn.cs" />
+    <Compile Include="UIMaster_MainOut.cs" />
+    <Compile Include="UIMaster_Present.cs" />
+    <Compile Include="UIMaster_Raffle.cs" />
+    <Compile Include="UIMaster_Shop.cs" />
+    <Compile Include="UIMaster_Tmp.cs" />
+    <Compile Include="Util.cs" />
+    <Compile Include="WarningPanel.cs" />
+    <Compile Include="WebViewPanel.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

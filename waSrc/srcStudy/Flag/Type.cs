@@ -1,0 +1,40 @@
+﻿using System;
+
+namespace Flag
+{
+	// Token: 0x02000086 RID: 134
+	[Serializable]
+	public enum Type
+	{
+		// Token: 0x04000392 RID: 914
+		DEFAULT = -1,
+		// Token: 0x04000393 RID: 915
+		GOTRAVEL,
+		// Token: 0x04000394 RID: 916
+		TRAVEL_TIMEMIN,
+		// Token: 0x04000395 RID: 917
+		TRAVEL_TIMEMAX,
+		// Token: 0x04000396 RID: 918
+		COLLECT_NUM,
+		// Token: 0x04000397 RID: 919
+		CLOVER_NUM,
+		// Token: 0x04000398 RID: 920
+		ROLL_NUM,
+		// Token: 0x04000399 RID: 921
+		VEGETABLE_NUM,
+		// Token: 0x0400039A RID: 922
+		FRUITS_NUM,
+		// Token: 0x0400039B RID: 923
+		MANJU_NUM,
+		// Token: 0x0400039C RID: 924
+		CONPEITO_COMBO,
+		// Token: 0x0400039D RID: 925
+		CONPEITO_COMBOMAX,
+		// Token: 0x0400039E RID: 926
+		NORMALFOODS_NUM,
+		// Token: 0x0400039F RID: 927
+		SPECIALTY_NUM,
+		// Token: 0x040003A0 RID: 928
+		_TypeMax
+	}
+}
