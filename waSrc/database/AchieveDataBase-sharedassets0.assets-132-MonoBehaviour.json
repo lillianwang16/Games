@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "name": "ひとりたび",
+            "info": "（デフォルト）",
+            "id": 0,
+            "flagType": [
+                -1
+            ],
+            "flagValue": [
+                0
+            ],
+            "flagSign": [
+                0
+            ]
+        },
+        {
+            "name": "きままな旅行者",
+            "info": "旅に合計10回出発",
+            "id": 1,
+            "flagType": [
+                0
+            ],
+            "flagValue": [
+                10
+            ],
+            "flagSign": [
+                1
+            ]
+        },
+        {
+            "name": "さすらいの旅人",
+            "info": "旅に合計25回出発",
+            "id": 2,
+            "flagType": [
+                0
+            ],
+            "flagValue": [
+                25
+            ],
+            "flagSign": [
+                1
+            ]
+        },
+        {
+            "name": "はてなき冒険家",
+            "info": "旅に合計50回出発",
+            "id": 3,
+            "flagType": [
+                0
+            ],
+            "flagValue": [
+                50
+            ],
+            "flagSign": [
+                1
+            ]
+        },
+        {
+            "name": "めきき名人",
+            "info": "めいぶつ食材系を全種登録",
+            "id": 6,
+            "flagType": [
+                11
+            ],
+            "flagValue": [
+                18
+            ],
+            "flagSign": [
+                1
+            ]
+        },
+        {
+            "name": "おさんぽ日和",
+            "info": "出発～帰宅迄が30分未満",
+            "id": 7,
+            "flagType": [
+                1
+            ],
+            "flagValue": [
+                1799
+            ],
+            "flagSign": [
+                -1
+            ]
+        },
+        {
+            "name": "かえらぬ旅路",
+            "info": "出発～帰宅迄が1440分以上",
+            "id": 8,
+            "flagType": [
+                2
+            ],
+            "flagValue": [
+                84000
+            ],
+            "flagSign": [
+                1
+            ]
+        },
+        {
+            "name": "かえるにみつ葉",
+            "info": "みつ葉10万以上",
+            "id": 9,
+            "flagType": [
+                4
+            ],
+            "flagValue": [
+                100000
+            ],
+            "flagSign": [
+                1
+            ]
+        },
+        {
+            "name": "かみだのみ",
+            "info": "ふくびきを20回以上引く",
+            "id": 10,
+            "flagType": [
+                5
+            ],
+            "flagValue": [
+                20
+            ],
+            "flagSign": [
+                1
+            ]
+        },
+        {
+            "name": "お菓子なごはん",
+            "info": "「金平糖」を4回連続でもたせて出発",
+            "id": 11,
+            "flagType": [
+                10
+            ],
+            "flagValue": [
+                4
+            ],
+            "flagSign": [
+                1
+            ]
+        },
+        {
+            "name": "まんじゅう怖い",
+            "info": "「温泉まんじゅう」を30個以上所持",
+            "id": 12,
+            "flagType": [
+                8
+            ],
+            "flagValue": [
+                30
+            ],
+            "flagSign": [
+                1
+            ]
+        }
+    ]
+}

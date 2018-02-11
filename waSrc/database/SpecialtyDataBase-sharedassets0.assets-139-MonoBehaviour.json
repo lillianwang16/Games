@@ -1,0 +1,149 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "itemId": 3001,
+            "place": "東北地方"
+        },
+        {
+            "id": 2,
+            "itemId": 3002,
+            "place": "東北地方"
+        },
+        {
+            "id": 5,
+            "itemId": 3005,
+            "place": "関東地方"
+        },
+        {
+            "id": 7,
+            "itemId": 3007,
+            "place": "中部地方"
+        },
+        {
+            "id": 9,
+            "itemId": 3009,
+            "place": "中部地方"
+        },
+        {
+            "id": 10,
+            "itemId": 3010,
+            "place": "近畿地方"
+        },
+        {
+            "id": 11,
+            "itemId": 3011,
+            "place": "近畿地方"
+        },
+        {
+            "id": 12,
+            "itemId": 3012,
+            "place": "近畿地方"
+        },
+        {
+            "id": 17,
+            "itemId": 3017,
+            "place": "九州地方"
+        },
+        {
+            "id": 18,
+            "itemId": 3018,
+            "place": "九州地方"
+        },
+        {
+            "id": 20,
+            "itemId": 3020,
+            "place": "菓子"
+        },
+        {
+            "id": 21,
+            "itemId": 4000,
+            "place": "穀物"
+        },
+        {
+            "id": 22,
+            "itemId": 4001,
+            "place": "野菜"
+        },
+        {
+            "id": 23,
+            "itemId": 4002,
+            "place": "野菜"
+        },
+        {
+            "id": 24,
+            "itemId": 4003,
+            "place": "野菜"
+        },
+        {
+            "id": 25,
+            "itemId": 4004,
+            "place": "野菜"
+        },
+        {
+            "id": 26,
+            "itemId": 4005,
+            "place": "野菜"
+        },
+        {
+            "id": 27,
+            "itemId": 4006,
+            "place": "果物"
+        },
+        {
+            "id": 28,
+            "itemId": 4007,
+            "place": "果物"
+        },
+        {
+            "id": 29,
+            "itemId": 4008,
+            "place": "果物"
+        },
+        {
+            "id": 30,
+            "itemId": 4009,
+            "place": "果物"
+        },
+        {
+            "id": 31,
+            "itemId": 4010,
+            "place": "果物"
+        },
+        {
+            "id": 32,
+            "itemId": 4011,
+            "place": "果物"
+        },
+        {
+            "id": 33,
+            "itemId": 4012,
+            "place": "果物"
+        },
+        {
+            "id": 34,
+            "itemId": 4013,
+            "place": "果物"
+        },
+        {
+            "id": 35,
+            "itemId": 4014,
+            "place": "牛乳"
+        },
+        {
+            "id": 36,
+            "itemId": 4015,
+            "place": "乳製品"
+        },
+        {
+            "id": 37,
+            "itemId": 4016,
+            "place": "飲料"
+        },
+        {
+            "id": 38,
+            "itemId": 4017,
+            "place": "飲料"
+        }
+    ]
+}

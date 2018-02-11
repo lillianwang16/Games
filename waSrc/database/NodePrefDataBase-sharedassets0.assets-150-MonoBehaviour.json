@@ -1,0 +1,429 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "collectionId": 9,
+            "specialtyId": [
+                3009,
+                4007,
+                4006,
+                4001
+            ]
+        },
+        {
+            "id": 2,
+            "collectionId": -1,
+            "specialtyId": [
+                4007,
+                4006,
+                4016,
+                4017
+            ]
+        },
+        {
+            "id": 5,
+            "collectionId": -1,
+            "specialtyId": [
+                4004,
+                4003
+            ]
+        },
+        {
+            "id": 8,
+            "collectionId": -1,
+            "specialtyId": [
+                4007,
+                4017
+            ]
+        },
+        {
+            "id": 13,
+            "collectionId": -1,
+            "specialtyId": [
+                4013,
+                4017,
+                4012
+            ]
+        },
+        {
+            "id": 15,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4007,
+                4016
+            ]
+        },
+        {
+            "id": 17,
+            "collectionId": 7,
+            "specialtyId": [
+                4013,
+                4012,
+                3007,
+                4015
+            ]
+        },
+        {
+            "id": 24,
+            "collectionId": 5,
+            "specialtyId": [
+                3020,
+                3005,
+                4001,
+                4014,
+                4013
+            ]
+        },
+        {
+            "id": 25,
+            "collectionId": -1,
+            "specialtyId": [
+                4016
+            ]
+        },
+        {
+            "id": 26,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4006,
+                4014,
+                4005
+            ]
+        },
+        {
+            "id": 28,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4008,
+                4006,
+                4001
+            ]
+        },
+        {
+            "id": 31,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4001
+            ]
+        },
+        {
+            "id": 33,
+            "collectionId": -1,
+            "specialtyId": [
+                4005,
+                4009
+            ]
+        },
+        {
+            "id": 36,
+            "collectionId": -1,
+            "specialtyId": [
+                4001,
+                4015
+            ]
+        },
+        {
+            "id": 40,
+            "collectionId": -1,
+            "specialtyId": [
+                3020,
+                4011,
+                4006,
+                4016,
+                4017
+            ]
+        },
+        {
+            "id": 44,
+            "collectionId": -1,
+            "specialtyId": [
+                4012,
+                4007
+            ]
+        },
+        {
+            "id": 1000,
+            "collectionId": 10,
+            "specialtyId": [
+                3010,
+                4016,
+                4008,
+                4005
+            ]
+        },
+        {
+            "id": 1002,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4016
+            ]
+        },
+        {
+            "id": 1007,
+            "collectionId": 12,
+            "specialtyId": [
+                3012,
+                4016,
+                4000,
+                4011,
+                4006
+            ]
+        },
+        {
+            "id": 1009,
+            "collectionId": -1,
+            "specialtyId": [
+                4007,
+                4005,
+                4016,
+                4006
+            ]
+        },
+        {
+            "id": 1015,
+            "collectionId": -1,
+            "specialtyId": [
+                3020,
+                4011,
+                4012,
+                4007,
+                4017
+            ]
+        },
+        {
+            "id": 1017,
+            "collectionId": -1,
+            "specialtyId": [
+                4002,
+                4001
+            ]
+        },
+        {
+            "id": 1022,
+            "collectionId": 11,
+            "specialtyId": [
+                3011,
+                4002,
+                4015,
+                3020,
+                4000
+            ]
+        },
+        {
+            "id": 1027,
+            "collectionId": -1,
+            "specialtyId": [
+                4004,
+                4007
+            ]
+        },
+        {
+            "id": 1028,
+            "collectionId": -1,
+            "specialtyId": [
+                4016,
+                4000,
+                4001
+            ]
+        },
+        {
+            "id": 1031,
+            "collectionId": -1,
+            "specialtyId": [
+                4012
+            ]
+        },
+        {
+            "id": 1033,
+            "collectionId": -1,
+            "specialtyId": [
+                5,
+                4011
+            ]
+        },
+        {
+            "id": 1034,
+            "collectionId": -1,
+            "specialtyId": [
+                4004,
+                4017
+            ]
+        },
+        {
+            "id": 1036,
+            "collectionId": -1,
+            "specialtyId": [
+                4004,
+                4011,
+                4008,
+                4017
+            ]
+        },
+        {
+            "id": 1039,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4008,
+                4012,
+                3020
+            ]
+        },
+        {
+            "id": 1043,
+            "collectionId": -1,
+            "specialtyId": [
+                4007,
+                4011
+            ]
+        },
+        {
+            "id": 1046,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4007,
+                4006,
+                4017
+            ]
+        },
+        {
+            "id": 2000,
+            "collectionId": -1,
+            "specialtyId": [
+                4007,
+                4006,
+                4016,
+                4011,
+                4017
+            ]
+        },
+        {
+            "id": 2003,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4006,
+                4002
+            ]
+        },
+        {
+            "id": 2008,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4006
+            ]
+        },
+        {
+            "id": 2012,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4006,
+                4014,
+                4008,
+                4017
+            ]
+        },
+        {
+            "id": 2014,
+            "collectionId": 18,
+            "specialtyId": [
+                3018,
+                4004,
+                4009,
+                4017,
+                4016
+            ]
+        },
+        {
+            "id": 2018,
+            "collectionId": -1,
+            "specialtyId": [
+                4004,
+                4016,
+                4006,
+                4010,
+                4017
+            ]
+        },
+        {
+            "id": 2022,
+            "collectionId": 17,
+            "specialtyId": [
+                3017,
+                4005,
+                4011,
+                4017
+            ]
+        },
+        {
+            "id": 3000,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4006
+            ]
+        },
+        {
+            "id": 3002,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4012,
+                4013,
+                4007
+            ]
+        },
+        {
+            "id": 3007,
+            "collectionId": -1,
+            "specialtyId": [
+                4013,
+                4000,
+                4012,
+                4005,
+                4017,
+                4007
+            ]
+        },
+        {
+            "id": 3011,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4013,
+                4017,
+                4014
+            ]
+        },
+        {
+            "id": 3014,
+            "collectionId": 1,
+            "specialtyId": [
+                3001,
+                4003,
+                4006,
+                4000,
+                4013,
+                4017
+            ]
+        },
+        {
+            "id": 3021,
+            "collectionId": 2,
+            "specialtyId": [
+                3002,
+                4000,
+                4017,
+                4013
+            ]
+        }
+    ]
+}

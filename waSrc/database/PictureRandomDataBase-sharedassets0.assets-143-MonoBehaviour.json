@@ -1,0 +1,327 @@
+{
+    "data": [
+        {
+            "id": 1000,
+            "rndType": 0,
+            "set": "sky01",
+            "setName": [
+                "normal_sora_01",
+                "normal_sora_02",
+                "normal_sora_05",
+                "normal_sora_06",
+                "normal_sora_09",
+                "normal_sora_10",
+                "normal_sora_11",
+                "normal_sora_12"
+            ]
+        },
+        {
+            "id": 1001,
+            "rndType": 0,
+            "set": "sky02",
+            "setName": [
+                "normal_sora_03",
+                "normal_sora_04",
+                "normal_sora_07",
+                "normal_sora_08",
+                "normal_sora_09",
+                "normal_sora_10",
+                "normal_sora_11",
+                "normal_sora_12"
+            ]
+        },
+        {
+            "id": 1002,
+            "rndType": 0,
+            "set": "cloud ",
+            "setName": [
+                "normal_kumo_01",
+                "normal_kumo_02",
+                "normal_kumo_03",
+                "normal_kumo_04",
+                "normal_kumo_05",
+                "normal_kumo_06"
+            ]
+        },
+        {
+            "id": 2000,
+            "rndType": 0,
+            "set": "beach01",
+            "setName": [
+                "normal_umi_06"
+            ]
+        },
+        {
+            "id": 2001,
+            "rndType": 0,
+            "set": "beach02",
+            "setName": [
+                "normal_umi_05"
+            ]
+        },
+        {
+            "id": 2002,
+            "rndType": 0,
+            "set": "surface01",
+            "setName": [
+                "normal_umi_02"
+            ]
+        },
+        {
+            "id": 2003,
+            "rndType": 0,
+            "set": "surface02",
+            "setName": [
+                "normal_umi_01"
+            ]
+        },
+        {
+            "id": 2004,
+            "rndType": 0,
+            "set": "wave01",
+            "setName": [
+                "normal_umi_04"
+            ]
+        },
+        {
+            "id": 2005,
+            "rndType": 0,
+            "set": "wave02",
+            "setName": [
+                "normal_umi_03"
+            ]
+        },
+        {
+            "id": 3000,
+            "rndType": 0,
+            "set": "mt01_load",
+            "setName": [
+                "normal_yama_01",
+                "normal_yama_02"
+            ]
+        },
+        {
+            "id": 3001,
+            "rndType": 0,
+            "set": "mt02_load",
+            "setName": [
+                "normal_yama_01",
+                "normal_yama_03"
+            ]
+        },
+        {
+            "id": 4000,
+            "rndType": 0,
+            "set": "grove_load",
+            "setName": [
+                "normal_hayasi_01"
+            ]
+        },
+        {
+            "id": 5000,
+            "rndType": 0,
+            "set": "earth_load",
+            "setName": [
+                "normal_konkuri_01",
+                "normal_asphalt_01"
+            ]
+        },
+        {
+            "id": 5001,
+            "rndType": 0,
+            "set": "earth_stump",
+            "setName": [
+                "normal_zimen_01"
+            ]
+        },
+        {
+            "id": 5002,
+            "rndType": 0,
+            "set": "earth_bush",
+            "setName": [
+                "normal_zimen_01_a",
+                "normal_zimen_02"
+            ]
+        },
+        {
+            "id": 6000,
+            "rndType": 0,
+            "set": "line",
+            "setName": [
+                "normal_line_01"
+            ]
+        },
+        {
+            "id": 6001,
+            "rndType": 0,
+            "set": "fence",
+            "setName": [
+                "normal_saku_01",
+                "normal_saku_02",
+                "normal_saku_03"
+            ]
+        },
+        {
+            "id": 6002,
+            "rndType": 0,
+            "set": "leaf01_stump",
+            "setName": [
+                "normal_otiba_01",
+                "normal_otiba_02",
+                "normal_otiba_03",
+                "normal_otiba_07",
+                "normal_otiba_08",
+                "normal_otiba_09",
+                "normal_otiba_13",
+                "normal_otiba_14",
+                "normal_otiba_15"
+            ]
+        },
+        {
+            "id": 6003,
+            "rndType": 0,
+            "set": "leaf02_stump",
+            "setName": [
+                "normal_otiba_04",
+                "normal_otiba_05",
+                "normal_otiba_06",
+                "normal_otiba_10",
+                "normal_otiba_11",
+                "normal_otiba_12",
+                "normal_otiba_16",
+                "normal_otiba_17",
+                "normal_otiba_18"
+            ]
+        },
+        {
+            "id": 6004,
+            "rndType": 0,
+            "set": "tree_view",
+            "setName": [
+                "normal_ki_05"
+            ]
+        },
+        {
+            "id": 6005,
+            "rndType": 0,
+            "set": "stump",
+            "setName": [
+                "normal_ki_02"
+            ]
+        },
+        {
+            "id": 6007,
+            "rndType": 0,
+            "set": "grass_all",
+            "setName": [
+                "normal_kusa_06"
+            ]
+        },
+        {
+            "id": 6008,
+            "rndType": 0,
+            "set": "grass_all_bush",
+            "setName": [
+                "normal_kusa_06_a"
+            ]
+        },
+        {
+            "id": 6009,
+            "rndType": 0,
+            "set": "grass_L_bush",
+            "setName": [
+                "normal_kusa_05",
+                "normal_kusa_02",
+                "normal_kusa_03",
+                "normal_kusa_04"
+            ]
+        },
+        {
+            "id": 6010,
+            "rndType": 0,
+            "set": "grass_L_bush_a",
+            "setName": [
+                "normal_kusa_02_a",
+                "normal_kusa_03_a",
+                "normal_kusa_04_a"
+            ]
+        },
+        {
+            "id": 6012,
+            "rndType": 0,
+            "set": "moss_stump",
+            "setName": [
+                "normal_koke_01_a",
+                "normal_koke_02_a",
+                "normal_koke_03_a",
+                "normal_koke_04_a",
+                "normal_koke_05_a",
+                "normal_koke_06_a",
+                "normal_koke_07_a",
+                "normal_koke_08_a",
+                "normal_koke_09_a",
+                "normal_koke_10_a"
+            ]
+        },
+        {
+            "id": 6013,
+            "rndType": 0,
+            "set": "tree_trunk_climb",
+            "setName": [
+                "normal_ki_01"
+            ]
+        },
+        {
+            "id": 9000,
+            "rndType": 1,
+            "set": "flog",
+            "setName": [
+                "pose_n_01",
+                "pose_n_02",
+                "pose_n_03",
+                "pose_n_04",
+                "pose_n_05"
+            ]
+        },
+        {
+            "id": 9001,
+            "rndType": 1,
+            "set": "clab",
+            "setName": [
+                "pose_n_01",
+                "pose_n_01r",
+                "pose_n_02",
+                "pose_n_02r",
+                "pose_n_03",
+                "pose_n_04",
+                "pose_n_04r",
+                "pose_n_05",
+                "pose_n_05r"
+            ]
+        },
+        {
+            "id": 9002,
+            "rndType": 1,
+            "set": "butterfly",
+            "setName": [
+                "pose_n_01",
+                "pose_n_02",
+                "pose_n_03",
+                "pose_n_04",
+                "pose_n_05"
+            ]
+        },
+        {
+            "id": 9003,
+            "rndType": 1,
+            "set": "mouse",
+            "setName": [
+                "pose_n_01",
+                "pose_n_02",
+                "pose_n_03",
+                "pose_n_04",
+                "pose_n_05"
+            ]
+        }
+    ]
+}

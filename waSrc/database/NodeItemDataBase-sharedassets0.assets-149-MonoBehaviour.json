@@ -1,0 +1,1518 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "collectionId": 9,
+            "specialtyId": [
+                3009,
+                4007,
+                4006,
+                4001
+            ],
+            "specialtyPer": [
+                5,
+                5,
+                5,
+                20
+            ]
+        },
+        {
+            "id": 1,
+            "collectionId": -1,
+            "specialtyId": [
+                3009
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 2,
+            "collectionId": -1,
+            "specialtyId": [
+                4007,
+                4006,
+                4016
+            ],
+            "specialtyPer": [
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "id": 3,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 4,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 5,
+            "collectionId": -1,
+            "specialtyId": [
+                4004
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 6,
+            "collectionId": -1,
+            "specialtyId": [
+                4003
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 7,
+            "collectionId": -1,
+            "specialtyId": [
+                4004
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 8,
+            "collectionId": -1,
+            "specialtyId": [
+                4007
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 9,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 10,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 11,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 12,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 13,
+            "collectionId": -1,
+            "specialtyId": [
+                4013
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 14,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 15,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4007,
+                4016
+            ],
+            "specialtyPer": [
+                20,
+                5,
+                5
+            ]
+        },
+        {
+            "id": 16,
+            "collectionId": -1,
+            "specialtyId": [
+                4013,
+                4012
+            ],
+            "specialtyPer": [
+                10,
+                5
+            ]
+        },
+        {
+            "id": 17,
+            "collectionId": 7,
+            "specialtyId": [
+                3007,
+                4013,
+                4012,
+                4015
+            ],
+            "specialtyPer": [
+                5,
+                10,
+                5,
+                10
+            ]
+        },
+        {
+            "id": 18,
+            "collectionId": -1,
+            "specialtyId": [
+                3007
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 19,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 20,
+            "collectionId": -1,
+            "specialtyId": [
+                4012
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 21,
+            "collectionId": -1,
+            "specialtyId": [
+                3007
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 22,
+            "collectionId": -1,
+            "specialtyId": [
+                4000
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 23,
+            "collectionId": -1,
+            "specialtyId": [
+                3020
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 24,
+            "collectionId": 5,
+            "specialtyId": [
+                3005,
+                4001,
+                4014,
+                4013
+            ],
+            "specialtyPer": [
+                5,
+                20,
+                10,
+                5
+            ]
+        },
+        {
+            "id": 25,
+            "collectionId": -1,
+            "specialtyId": [
+                4016
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 26,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4006,
+                4014
+            ],
+            "specialtyPer": [
+                10,
+                20,
+                10
+            ]
+        },
+        {
+            "id": 27,
+            "collectionId": -1,
+            "specialtyId": [
+                4005
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 28,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4008,
+                4006
+            ],
+            "specialtyPer": [
+                10,
+                20,
+                5
+            ]
+        },
+        {
+            "id": 29,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4001,
+                4006
+            ],
+            "specialtyPer": [
+                10,
+                5,
+                5
+            ]
+        },
+        {
+            "id": 30,
+            "collectionId": -1,
+            "specialtyId": [
+                4008,
+                4006
+            ],
+            "specialtyPer": [
+                20,
+                5
+            ]
+        },
+        {
+            "id": 31,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4001,
+                4001
+            ],
+            "specialtyPer": [
+                10,
+                10,
+                10
+            ]
+        },
+        {
+            "id": 32,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 33,
+            "collectionId": -1,
+            "specialtyId": [
+                4005
+            ],
+            "specialtyPer": [
+                20
+            ]
+        },
+        {
+            "id": 34,
+            "collectionId": -1,
+            "specialtyId": [
+                4009
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 35,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 36,
+            "collectionId": -1,
+            "specialtyId": [
+                4001,
+                4015
+            ],
+            "specialtyPer": [
+                5,
+                20
+            ]
+        },
+        {
+            "id": 37,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 38,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 39,
+            "collectionId": -1,
+            "specialtyId": [
+                3020
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 40,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4006,
+                4016
+            ],
+            "specialtyPer": [
+                20,
+                5,
+                20
+            ]
+        },
+        {
+            "id": 41,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 42,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 43,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 44,
+            "collectionId": -1,
+            "specialtyId": [
+                4012,
+                4007
+            ],
+            "specialtyPer": [
+                20,
+                5
+            ]
+        },
+        {
+            "id": 1000,
+            "collectionId": 10,
+            "specialtyId": [
+                3010,
+                4016,
+                4008,
+                4005
+            ],
+            "specialtyPer": [
+                5,
+                5,
+                5,
+                10
+            ]
+        },
+        {
+            "id": 1001,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 1002,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4016
+            ],
+            "specialtyPer": [
+                5,
+                5
+            ]
+        },
+        {
+            "id": 1003,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 1004,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 1005,
+            "collectionId": -1,
+            "specialtyId": [
+                4016
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1006,
+            "collectionId": -1,
+            "specialtyId": [
+                3012
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1007,
+            "collectionId": 12,
+            "specialtyId": [
+                3012,
+                4016,
+                4000,
+                4011
+            ],
+            "specialtyPer": [
+                5,
+                10,
+                5,
+                5
+            ]
+        },
+        {
+            "id": 1008,
+            "collectionId": -1,
+            "specialtyId": [
+                4016,
+                4006
+            ],
+            "specialtyPer": [
+                10,
+                5
+            ]
+        },
+        {
+            "id": 1009,
+            "collectionId": -1,
+            "specialtyId": [
+                4007,
+                4005,
+                4016
+            ],
+            "specialtyPer": [
+                20,
+                5,
+                5
+            ]
+        },
+        {
+            "id": 1010,
+            "collectionId": -1,
+            "specialtyId": [
+                4006
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1011,
+            "collectionId": -1,
+            "specialtyId": [
+                4007
+            ],
+            "specialtyPer": [
+                20
+            ]
+        },
+        {
+            "id": 1012,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 1013,
+            "collectionId": -1,
+            "specialtyId": [
+                4006
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1014,
+            "collectionId": -1,
+            "specialtyId": [
+                3020
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1015,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4012,
+                4007
+            ],
+            "specialtyPer": [
+                20,
+                5,
+                20
+            ]
+        },
+        {
+            "id": 1016,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1017,
+            "collectionId": -1,
+            "specialtyId": [
+                4002,
+                4001
+            ],
+            "specialtyPer": [
+                5,
+                5
+            ]
+        },
+        {
+            "id": 1018,
+            "collectionId": -1,
+            "specialtyId": [
+                4006
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1019,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 1020,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 1021,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 1022,
+            "collectionId": 11,
+            "specialtyId": [
+                3011,
+                4002,
+                4015
+            ],
+            "specialtyPer": [
+                5,
+                5,
+                10
+            ]
+        },
+        {
+            "id": 1023,
+            "collectionId": -1,
+            "specialtyId": [
+                4002
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1024,
+            "collectionId": -1,
+            "specialtyId": [
+                3020,
+                4000
+            ],
+            "specialtyPer": [
+                5,
+                5
+            ]
+        },
+        {
+            "id": 1025,
+            "collectionId": -1,
+            "specialtyId": [
+                3020
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1026,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 1027,
+            "collectionId": -1,
+            "specialtyId": [
+                4004,
+                4007
+            ],
+            "specialtyPer": [
+                20,
+                5
+            ]
+        },
+        {
+            "id": 1028,
+            "collectionId": -1,
+            "specialtyId": [
+                4016,
+                4000
+            ],
+            "specialtyPer": [
+                5,
+                5
+            ]
+        },
+        {
+            "id": 1029,
+            "collectionId": -1,
+            "specialtyId": [
+                4016,
+                4001
+            ],
+            "specialtyPer": [
+                5,
+                5
+            ]
+        },
+        {
+            "id": 1030,
+            "collectionId": -1,
+            "specialtyId": [
+                4001
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1031,
+            "collectionId": -1,
+            "specialtyId": [
+                4012
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1032,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 1033,
+            "collectionId": -1,
+            "specialtyId": [
+                5,
+                4011
+            ],
+            "specialtyPer": [
+                5,
+                5
+            ]
+        },
+        {
+            "id": 1034,
+            "collectionId": -1,
+            "specialtyId": [
+                4004
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1035,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1036,
+            "collectionId": -1,
+            "specialtyId": [
+                4004,
+                4011,
+                4008
+            ],
+            "specialtyPer": [
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "id": 1037,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1038,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1039,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4008
+            ],
+            "specialtyPer": [
+                20,
+                5
+            ]
+        },
+        {
+            "id": 1040,
+            "collectionId": -1,
+            "specialtyId": [
+                4012
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1041,
+            "collectionId": -1,
+            "specialtyId": [
+                3020
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1042,
+            "collectionId": -1,
+            "specialtyId": [
+                4007
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1043,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4007
+            ],
+            "specialtyPer": [
+                5,
+                5
+            ]
+        },
+        {
+            "id": 1044,
+            "collectionId": -1,
+            "specialtyId": [
+                4007
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 1045,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 1046,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4007,
+                4006
+            ],
+            "specialtyPer": [
+                5,
+                5,
+                5
+            ]
+        },
+        {
+            "id": 1047,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 2000,
+            "collectionId": -1,
+            "specialtyId": [
+                4007,
+                4006,
+                4016
+            ],
+            "specialtyPer": [
+                10,
+                20,
+                5
+            ]
+        },
+        {
+            "id": 2001,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4006
+            ],
+            "specialtyPer": [
+                5,
+                20
+            ]
+        },
+        {
+            "id": 2002,
+            "collectionId": -1,
+            "specialtyId": [
+                4016
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 2003,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4006,
+                4002
+            ],
+            "specialtyPer": [
+                10,
+                5,
+                10
+            ]
+        },
+        {
+            "id": 2004,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4006,
+                4002
+            ],
+            "specialtyPer": [
+                10,
+                5,
+                10
+            ]
+        },
+        {
+            "id": 2005,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 2006,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 2007,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4006
+            ],
+            "specialtyPer": [
+                10,
+                5
+            ]
+        },
+        {
+            "id": 2008,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4006
+            ],
+            "specialtyPer": [
+                10,
+                5
+            ]
+        },
+        {
+            "id": 2009,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 2010,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 2011,
+            "collectionId": -1,
+            "specialtyId": [
+                4011,
+                4006
+            ],
+            "specialtyPer": [
+                10,
+                5
+            ]
+        },
+        {
+            "id": 2012,
+            "collectionId": -1,
+            "specialtyId": [
+                4014,
+                4008,
+                4006
+            ],
+            "specialtyPer": [
+                10,
+                20,
+                5
+            ]
+        },
+        {
+            "id": 2013,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 2014,
+            "collectionId": 18,
+            "specialtyId": [
+                3018,
+                4004,
+                4004,
+                4009
+            ],
+            "specialtyPer": [
+                5,
+                20,
+                20,
+                20
+            ]
+        },
+        {
+            "id": 2015,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 2016,
+            "collectionId": -1,
+            "specialtyId": [
+                4016
+            ],
+            "specialtyPer": [
+                20
+            ]
+        },
+        {
+            "id": 2017,
+            "collectionId": -1,
+            "specialtyId": [
+                4004,
+                4016,
+                4006
+            ],
+            "specialtyPer": [
+                20,
+                5,
+                5
+            ]
+        },
+        {
+            "id": 2018,
+            "collectionId": -1,
+            "specialtyId": [
+                4004,
+                4004,
+                4010
+            ],
+            "specialtyPer": [
+                20,
+                20,
+                20
+            ]
+        },
+        {
+            "id": 2019,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 2020,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 2021,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 2022,
+            "collectionId": 17,
+            "specialtyId": [
+                3017,
+                4005,
+                4011
+            ],
+            "specialtyPer": [
+                5,
+                10,
+                5
+            ]
+        },
+        {
+            "id": 2023,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 2024,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 2025,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 2026,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 3000,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4006
+            ],
+            "specialtyPer": [
+                10,
+                5
+            ]
+        },
+        {
+            "id": 3001,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 3002,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4012,
+                4013
+            ],
+            "specialtyPer": [
+                10,
+                20,
+                5
+            ]
+        },
+        {
+            "id": 3003,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 3004,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 3005,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4007
+            ],
+            "specialtyPer": [
+                10,
+                5
+            ]
+        },
+        {
+            "id": 3006,
+            "collectionId": -1,
+            "specialtyId": [
+                4013
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 3007,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4012,
+                4005
+            ],
+            "specialtyPer": [
+                20,
+                5,
+                5
+            ]
+        },
+        {
+            "id": 3008,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 3009,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4013
+            ],
+            "specialtyPer": [
+                10,
+                5
+            ]
+        },
+        {
+            "id": 3010,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 3011,
+            "collectionId": -1,
+            "specialtyId": [
+                4000,
+                4014,
+                4013
+            ],
+            "specialtyPer": [
+                10,
+                10,
+                5
+            ]
+        },
+        {
+            "id": 3012,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 3013,
+            "collectionId": -1,
+            "specialtyId": [
+                3001,
+                4003,
+                4006
+            ],
+            "specialtyPer": [
+                5,
+                20,
+                5
+            ]
+        },
+        {
+            "id": 3014,
+            "collectionId": 1,
+            "specialtyId": [
+                3001,
+                4000,
+                4013,
+                4003
+            ],
+            "specialtyPer": [
+                5,
+                10,
+                20,
+                20
+            ]
+        },
+        {
+            "id": 3015,
+            "collectionId": -1,
+            "specialtyId": [
+                4013
+            ],
+            "specialtyPer": [
+                20
+            ]
+        },
+        {
+            "id": 3016,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 3017,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        },
+        {
+            "id": 3018,
+            "collectionId": -1,
+            "specialtyId": [
+                3002,
+                4000
+            ],
+            "specialtyPer": [
+                5,
+                20
+            ]
+        },
+        {
+            "id": 3019,
+            "collectionId": -1,
+            "specialtyId": [
+                3002,
+                4017
+            ],
+            "specialtyPer": [
+                5,
+                5
+            ]
+        },
+        {
+            "id": 3020,
+            "collectionId": -1,
+            "specialtyId": [
+                4014
+            ],
+            "specialtyPer": [
+                20
+            ]
+        },
+        {
+            "id": 3021,
+            "collectionId": 2,
+            "specialtyId": [
+                3002,
+                4000,
+                4013
+            ],
+            "specialtyPer": [
+                5,
+                20,
+                5
+            ]
+        },
+        {
+            "id": 3022,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 3023,
+            "collectionId": -1,
+            "specialtyId": [],
+            "specialtyPer": []
+        },
+        {
+            "id": 3024,
+            "collectionId": -1,
+            "specialtyId": [
+                4007,
+                4013
+            ],
+            "specialtyPer": [
+                5,
+                5
+            ]
+        },
+        {
+            "id": 3025,
+            "collectionId": -1,
+            "specialtyId": [
+                4017
+            ],
+            "specialtyPer": [
+                5
+            ]
+        }
+    ]
+}

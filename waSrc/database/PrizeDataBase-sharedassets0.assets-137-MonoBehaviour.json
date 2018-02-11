@@ -1,0 +1,118 @@
+{
+    "data": [
+        {
+            "itemId": -1,
+            "stock": 1,
+            "rank": 0,
+            "id": 0
+        },
+        {
+            "itemId": 1002,
+            "stock": 1,
+            "rank": 1,
+            "id": 1
+        },
+        {
+            "itemId": 1003,
+            "stock": 1,
+            "rank": 1,
+            "id": 2
+        },
+        {
+            "itemId": 1004,
+            "stock": 1,
+            "rank": 1,
+            "id": 3
+        },
+        {
+            "itemId": 1005,
+            "stock": 1,
+            "rank": 1,
+            "id": 4
+        },
+        {
+            "itemId": 1006,
+            "stock": 1,
+            "rank": 1,
+            "id": 5
+        },
+        {
+            "itemId": 6,
+            "stock": 1,
+            "rank": 2,
+            "id": 6
+        },
+        {
+            "itemId": 7,
+            "stock": 1,
+            "rank": 2,
+            "id": 7
+        },
+        {
+            "itemId": 8,
+            "stock": 1,
+            "rank": 2,
+            "id": 8
+        },
+        {
+            "itemId": 9,
+            "stock": 1,
+            "rank": 2,
+            "id": 9
+        },
+        {
+            "itemId": 10,
+            "stock": 1,
+            "rank": 2,
+            "id": 10
+        },
+        {
+            "itemId": 11,
+            "stock": 1,
+            "rank": 3,
+            "id": 11
+        },
+        {
+            "itemId": 12,
+            "stock": 1,
+            "rank": 3,
+            "id": 12
+        },
+        {
+            "itemId": 13,
+            "stock": 1,
+            "rank": 3,
+            "id": 13
+        },
+        {
+            "itemId": 14,
+            "stock": 1,
+            "rank": 3,
+            "id": 14
+        },
+        {
+            "itemId": 1007,
+            "stock": 1,
+            "rank": 4,
+            "id": 15
+        },
+        {
+            "itemId": 1008,
+            "stock": 1,
+            "rank": 4,
+            "id": 16
+        },
+        {
+            "itemId": 1009,
+            "stock": 1,
+            "rank": 4,
+            "id": 17
+        },
+        {
+            "itemId": 1010,
+            "stock": 1,
+            "rank": 4,
+            "id": 18
+        }
+    ]
+}

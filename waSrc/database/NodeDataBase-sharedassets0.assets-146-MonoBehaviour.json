@@ -1,0 +1,886 @@
+{
+    "areaIndex": [
+        0,
+        1000,
+        2000,
+        3000
+    ],
+    "data": [
+        {
+            "id": 0,
+            "type": -1,
+            "pathId": 0,
+            "picTag": ""
+        },
+        {
+            "id": 1,
+            "type": 1,
+            "pathId": 0,
+            "picTag": "p_aichi"
+        },
+        {
+            "id": 2,
+            "type": 2,
+            "pathId": 2,
+            "picTag": ""
+        },
+        {
+            "id": 3,
+            "type": 0,
+            "pathId": 0,
+            "picTag": ""
+        },
+        {
+            "id": 4,
+            "type": 3,
+            "pathId": 2,
+            "picTag": ""
+        },
+        {
+            "id": 5,
+            "type": 2,
+            "pathId": 5,
+            "picTag": ""
+        },
+        {
+            "id": 6,
+            "type": 0,
+            "pathId": 5,
+            "picTag": ""
+        },
+        {
+            "id": 7,
+            "type": 0,
+            "pathId": 5,
+            "picTag": ""
+        },
+        {
+            "id": 8,
+            "type": 2,
+            "pathId": 8,
+            "picTag": ""
+        },
+        {
+            "id": 9,
+            "type": 0,
+            "pathId": 8,
+            "picTag": ""
+        },
+        {
+            "id": 10,
+            "type": 0,
+            "pathId": 8,
+            "picTag": ""
+        },
+        {
+            "id": 11,
+            "type": 3,
+            "pathId": 2,
+            "picTag": ""
+        },
+        {
+            "id": 12,
+            "type": 0,
+            "pathId": 2,
+            "picTag": ""
+        },
+        {
+            "id": 13,
+            "type": 2,
+            "pathId": 13,
+            "picTag": ""
+        },
+        {
+            "id": 14,
+            "type": 0,
+            "pathId": 15,
+            "picTag": ""
+        },
+        {
+            "id": 15,
+            "type": 2,
+            "pathId": 15,
+            "picTag": ""
+        },
+        {
+            "id": 16,
+            "type": 3,
+            "pathId": 17,
+            "picTag": ""
+        },
+        {
+            "id": 17,
+            "type": 2,
+            "pathId": 17,
+            "picTag": ""
+        },
+        {
+            "id": 18,
+            "type": 0,
+            "pathId": 17,
+            "picTag": ""
+        },
+        {
+            "id": 19,
+            "type": 3,
+            "pathId": 13,
+            "picTag": ""
+        },
+        {
+            "id": 20,
+            "type": 0,
+            "pathId": 13,
+            "picTag": ""
+        },
+        {
+            "id": 21,
+            "type": 1,
+            "pathId": 17,
+            "picTag": "p_nagano"
+        },
+        {
+            "id": 22,
+            "type": 0,
+            "pathId": 15,
+            "picTag": ""
+        },
+        {
+            "id": 23,
+            "type": 1,
+            "pathId": 24,
+            "picTag": "p_gunma"
+        },
+        {
+            "id": 24,
+            "type": 2,
+            "pathId": 24,
+            "picTag": ""
+        },
+        {
+            "id": 25,
+            "type": 2,
+            "pathId": 25,
+            "picTag": ""
+        },
+        {
+            "id": 26,
+            "type": 2,
+            "pathId": 26,
+            "picTag": ""
+        },
+        {
+            "id": 27,
+            "type": 0,
+            "pathId": 26,
+            "picTag": ""
+        },
+        {
+            "id": 28,
+            "type": 2,
+            "pathId": 28,
+            "picTag": ""
+        },
+        {
+            "id": 29,
+            "type": 0,
+            "pathId": 28,
+            "picTag": ""
+        },
+        {
+            "id": 30,
+            "type": 0,
+            "pathId": 28,
+            "picTag": ""
+        },
+        {
+            "id": 31,
+            "type": 2,
+            "pathId": 31,
+            "picTag": ""
+        },
+        {
+            "id": 32,
+            "type": 3,
+            "pathId": 31,
+            "picTag": ""
+        },
+        {
+            "id": 33,
+            "type": 2,
+            "pathId": 33,
+            "picTag": ""
+        },
+        {
+            "id": 34,
+            "type": 3,
+            "pathId": 33,
+            "picTag": ""
+        },
+        {
+            "id": 35,
+            "type": 0,
+            "pathId": 33,
+            "picTag": ""
+        },
+        {
+            "id": 36,
+            "type": 2,
+            "pathId": 36,
+            "picTag": ""
+        },
+        {
+            "id": 37,
+            "type": 3,
+            "pathId": 36,
+            "picTag": ""
+        },
+        {
+            "id": 38,
+            "type": 0,
+            "pathId": 36,
+            "picTag": ""
+        },
+        {
+            "id": 39,
+            "type": 0,
+            "pathId": 40,
+            "picTag": ""
+        },
+        {
+            "id": 40,
+            "type": 2,
+            "pathId": 40,
+            "picTag": ""
+        },
+        {
+            "id": 41,
+            "type": 3,
+            "pathId": 40,
+            "picTag": ""
+        },
+        {
+            "id": 42,
+            "type": 0,
+            "pathId": 40,
+            "picTag": ""
+        },
+        {
+            "id": 43,
+            "type": 0,
+            "pathId": 44,
+            "picTag": ""
+        },
+        {
+            "id": 44,
+            "type": 2,
+            "pathId": 44,
+            "picTag": ""
+        },
+        {
+            "id": 1000,
+            "type": -1,
+            "pathId": 1000,
+            "picTag": ""
+        },
+        {
+            "id": 1001,
+            "type": 1,
+            "pathId": 1000,
+            "picTag": "p_kyoto"
+        },
+        {
+            "id": 1002,
+            "type": 2,
+            "pathId": 1002,
+            "picTag": ""
+        },
+        {
+            "id": 1003,
+            "type": 3,
+            "pathId": 1002,
+            "picTag": ""
+        },
+        {
+            "id": 1004,
+            "type": 0,
+            "pathId": 1002,
+            "picTag": ""
+        },
+        {
+            "id": 1005,
+            "type": 0,
+            "pathId": 1002,
+            "picTag": ""
+        },
+        {
+            "id": 1006,
+            "type": 0,
+            "pathId": 1007,
+            "picTag": ""
+        },
+        {
+            "id": 1007,
+            "type": 2,
+            "pathId": 1007,
+            "picTag": ""
+        },
+        {
+            "id": 1008,
+            "type": 1,
+            "pathId": 1007,
+            "picTag": "p_mie"
+        },
+        {
+            "id": 1009,
+            "type": 2,
+            "pathId": 1009,
+            "picTag": ""
+        },
+        {
+            "id": 1010,
+            "type": 0,
+            "pathId": 1009,
+            "picTag": ""
+        },
+        {
+            "id": 1011,
+            "type": 0,
+            "pathId": 1009,
+            "picTag": ""
+        },
+        {
+            "id": 1012,
+            "type": 0,
+            "pathId": 1015,
+            "picTag": ""
+        },
+        {
+            "id": 1013,
+            "type": 3,
+            "pathId": 1007,
+            "picTag": ""
+        },
+        {
+            "id": 1014,
+            "type": 0,
+            "pathId": 1015,
+            "picTag": ""
+        },
+        {
+            "id": 1015,
+            "type": 2,
+            "pathId": 1015,
+            "picTag": ""
+        },
+        {
+            "id": 1016,
+            "type": 0,
+            "pathId": 1015,
+            "picTag": ""
+        },
+        {
+            "id": 1017,
+            "type": 2,
+            "pathId": 1017,
+            "picTag": ""
+        },
+        {
+            "id": 1018,
+            "type": 3,
+            "pathId": 1009,
+            "picTag": ""
+        },
+        {
+            "id": 1019,
+            "type": 0,
+            "pathId": 1017,
+            "picTag": ""
+        },
+        {
+            "id": 1020,
+            "type": 3,
+            "pathId": 1017,
+            "picTag": ""
+        },
+        {
+            "id": 1021,
+            "type": 0,
+            "pathId": 1022,
+            "picTag": ""
+        },
+        {
+            "id": 1022,
+            "type": 2,
+            "pathId": 1022,
+            "picTag": ""
+        },
+        {
+            "id": 1023,
+            "type": 3,
+            "pathId": 1022,
+            "picTag": ""
+        },
+        {
+            "id": 1024,
+            "type": 1,
+            "pathId": 1022,
+            "picTag": "p_hyogo"
+        },
+        {
+            "id": 1025,
+            "type": 0,
+            "pathId": 1022,
+            "picTag": ""
+        },
+        {
+            "id": 1026,
+            "type": 0,
+            "pathId": 1027,
+            "picTag": ""
+        },
+        {
+            "id": 1027,
+            "type": 2,
+            "pathId": 1027,
+            "picTag": ""
+        },
+        {
+            "id": 1028,
+            "type": 2,
+            "pathId": 1028,
+            "picTag": ""
+        },
+        {
+            "id": 1029,
+            "type": 0,
+            "pathId": 1028,
+            "picTag": ""
+        },
+        {
+            "id": 1030,
+            "type": 0,
+            "pathId": 1028,
+            "picTag": ""
+        },
+        {
+            "id": 1031,
+            "type": 2,
+            "pathId": 1031,
+            "picTag": ""
+        },
+        {
+            "id": 1032,
+            "type": 0,
+            "pathId": 1031,
+            "picTag": ""
+        },
+        {
+            "id": 1033,
+            "type": 2,
+            "pathId": 1033,
+            "picTag": ""
+        },
+        {
+            "id": 1034,
+            "type": 2,
+            "pathId": 1034,
+            "picTag": ""
+        },
+        {
+            "id": 1035,
+            "type": 0,
+            "pathId": 1034,
+            "picTag": ""
+        },
+        {
+            "id": 1036,
+            "type": 2,
+            "pathId": 1036,
+            "picTag": ""
+        },
+        {
+            "id": 1037,
+            "type": 0,
+            "pathId": 1036,
+            "picTag": ""
+        },
+        {
+            "id": 1038,
+            "type": 0,
+            "pathId": 1036,
+            "picTag": ""
+        },
+        {
+            "id": 1039,
+            "type": 2,
+            "pathId": 1039,
+            "picTag": ""
+        },
+        {
+            "id": 1040,
+            "type": 0,
+            "pathId": 1039,
+            "picTag": ""
+        },
+        {
+            "id": 1041,
+            "type": 0,
+            "pathId": 1039,
+            "picTag": ""
+        },
+        {
+            "id": 1042,
+            "type": 0,
+            "pathId": 1043,
+            "picTag": ""
+        },
+        {
+            "id": 1043,
+            "type": 2,
+            "pathId": 1043,
+            "picTag": ""
+        },
+        {
+            "id": 1044,
+            "type": 0,
+            "pathId": 1043,
+            "picTag": ""
+        },
+        {
+            "id": 1045,
+            "type": 0,
+            "pathId": 1046,
+            "picTag": ""
+        },
+        {
+            "id": 1046,
+            "type": 2,
+            "pathId": 1046,
+            "picTag": ""
+        },
+        {
+            "id": 1047,
+            "type": 0,
+            "pathId": 1046,
+            "picTag": ""
+        },
+        {
+            "id": 2000,
+            "type": -1,
+            "pathId": 2000,
+            "picTag": ""
+        },
+        {
+            "id": 2001,
+            "type": 0,
+            "pathId": 2000,
+            "picTag": ""
+        },
+        {
+            "id": 2002,
+            "type": 0,
+            "pathId": 2000,
+            "picTag": ""
+        },
+        {
+            "id": 2003,
+            "type": 2,
+            "pathId": 2003,
+            "picTag": ""
+        },
+        {
+            "id": 2004,
+            "type": 0,
+            "pathId": 2003,
+            "picTag": ""
+        },
+        {
+            "id": 2005,
+            "type": 0,
+            "pathId": 2003,
+            "picTag": ""
+        },
+        {
+            "id": 2006,
+            "type": 0,
+            "pathId": 2003,
+            "picTag": ""
+        },
+        {
+            "id": 2007,
+            "type": 0,
+            "pathId": 2008,
+            "picTag": ""
+        },
+        {
+            "id": 2008,
+            "type": 2,
+            "pathId": 2008,
+            "picTag": ""
+        },
+        {
+            "id": 2009,
+            "type": 0,
+            "pathId": 2008,
+            "picTag": ""
+        },
+        {
+            "id": 2010,
+            "type": 0,
+            "pathId": 2008,
+            "picTag": ""
+        },
+        {
+            "id": 2011,
+            "type": 3,
+            "pathId": 2012,
+            "picTag": ""
+        },
+        {
+            "id": 2012,
+            "type": 2,
+            "pathId": 2012,
+            "picTag": ""
+        },
+        {
+            "id": 2013,
+            "type": 0,
+            "pathId": 2012,
+            "picTag": ""
+        },
+        {
+            "id": 2014,
+            "type": 2,
+            "pathId": 2014,
+            "picTag": ""
+        },
+        {
+            "id": 2015,
+            "type": 1,
+            "pathId": 2014,
+            "picTag": "p_kagoshima"
+        },
+        {
+            "id": 2016,
+            "type": 3,
+            "pathId": 2014,
+            "picTag": ""
+        },
+        {
+            "id": 2017,
+            "type": 0,
+            "pathId": 2018,
+            "picTag": ""
+        },
+        {
+            "id": 2018,
+            "type": 2,
+            "pathId": 2018,
+            "picTag": ""
+        },
+        {
+            "id": 2019,
+            "type": 0,
+            "pathId": 2018,
+            "picTag": ""
+        },
+        {
+            "id": 2020,
+            "type": 3,
+            "pathId": 2012,
+            "picTag": ""
+        },
+        {
+            "id": 2021,
+            "type": 3,
+            "pathId": 2022,
+            "picTag": ""
+        },
+        {
+            "id": 2022,
+            "type": 2,
+            "pathId": 2022,
+            "picTag": ""
+        },
+        {
+            "id": 2023,
+            "type": 1,
+            "pathId": 2022,
+            "picTag": "p_oita"
+        },
+        {
+            "id": 2024,
+            "type": 0,
+            "pathId": 2022,
+            "picTag": ""
+        },
+        {
+            "id": 2025,
+            "type": 0,
+            "pathId": 2000,
+            "picTag": ""
+        },
+        {
+            "id": 2026,
+            "type": 0,
+            "pathId": 2000,
+            "picTag": ""
+        },
+        {
+            "id": 3000,
+            "type": -1,
+            "pathId": 3000,
+            "picTag": ""
+        },
+        {
+            "id": 3001,
+            "type": 3,
+            "pathId": 3000,
+            "picTag": ""
+        },
+        {
+            "id": 3002,
+            "type": 2,
+            "pathId": 3002,
+            "picTag": ""
+        },
+        {
+            "id": 3003,
+            "type": 0,
+            "pathId": 3002,
+            "picTag": ""
+        },
+        {
+            "id": 3004,
+            "type": 0,
+            "pathId": 3002,
+            "picTag": ""
+        },
+        {
+            "id": 3005,
+            "type": 0,
+            "pathId": 3002,
+            "picTag": ""
+        },
+        {
+            "id": 3006,
+            "type": 0,
+            "pathId": 3007,
+            "picTag": ""
+        },
+        {
+            "id": 3007,
+            "type": 2,
+            "pathId": 3007,
+            "picTag": ""
+        },
+        {
+            "id": 3008,
+            "type": 3,
+            "pathId": 3007,
+            "picTag": ""
+        },
+        {
+            "id": 3009,
+            "type": 0,
+            "pathId": 3011,
+            "picTag": ""
+        },
+        {
+            "id": 3010,
+            "type": 0,
+            "pathId": 3011,
+            "picTag": ""
+        },
+        {
+            "id": 3011,
+            "type": 2,
+            "pathId": 3011,
+            "picTag": ""
+        },
+        {
+            "id": 3012,
+            "type": 3,
+            "pathId": 3011,
+            "picTag": ""
+        },
+        {
+            "id": 3013,
+            "type": 0,
+            "pathId": 3014,
+            "picTag": ""
+        },
+        {
+            "id": 3014,
+            "type": 2,
+            "pathId": 3014,
+            "picTag": ""
+        },
+        {
+            "id": 3015,
+            "type": 0,
+            "pathId": 3014,
+            "picTag": ""
+        },
+        {
+            "id": 3016,
+            "type": 1,
+            "pathId": 3014,
+            "picTag": "p_aomori"
+        },
+        {
+            "id": 3017,
+            "type": 3,
+            "pathId": 3014,
+            "picTag": ""
+        },
+        {
+            "id": 3018,
+            "type": 3,
+            "pathId": 3021,
+            "picTag": ""
+        },
+        {
+            "id": 3019,
+            "type": 0,
+            "pathId": 3021,
+            "picTag": ""
+        },
+        {
+            "id": 3020,
+            "type": 3,
+            "pathId": 3011,
+            "picTag": ""
+        },
+        {
+            "id": 3021,
+            "type": 2,
+            "pathId": 3021,
+            "picTag": ""
+        },
+        {
+            "id": 3022,
+            "type": 1,
+            "pathId": 3021,
+            "picTag": "p_akita"
+        },
+        {
+            "id": 3023,
+            "type": 3,
+            "pathId": 3021,
+            "picTag": ""
+        },
+        {
+            "id": 3024,
+            "type": 0,
+            "pathId": 3007,
+            "picTag": ""
+        },
+        {
+            "id": 3025,
+            "type": 3,
+            "pathId": 3007,
+            "picTag": ""
+        }
+    ]
+}

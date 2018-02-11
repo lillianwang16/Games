@@ -1,0 +1,1850 @@
+{
+    "data": [
+        {
+            "name": "えびづるのスコーン",
+            "info": "少しおなかのたしになるおやつ まあまあ出かける",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 61
+            },
+            "id": 0,
+            "type": 0,
+            "price": 10,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203
+            ],
+            "effectValue": [
+                6,
+                10,
+                20,
+                1
+            ]
+        },
+        {
+            "name": "はこべのサンドイッチ",
+            "info": "それなりに満足できる調理パン そこそこ出かける",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 52
+            },
+            "id": 1,
+            "type": 0,
+            "price": 20,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0
+            ],
+            "effectValue": [
+                12,
+                20,
+                20,
+                1,
+                30
+            ]
+        },
+        {
+            "name": "かぼちゃのベーグル",
+            "info": "食べごたえのある調理パン かなり遠くまで出かける",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 58
+            },
+            "id": 2,
+            "type": 0,
+            "price": 50,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0
+            ],
+            "effectValue": [
+                24,
+                30,
+                20,
+                1,
+                60
+            ]
+        },
+        {
+            "name": "のびるのキッシュ",
+            "info": "食感の楽しいたまご料理 帰りが早くなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 67
+            },
+            "id": 3,
+            "type": 0,
+            "price": 80,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                3
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0,
+                399
+            ],
+            "effectValue": [
+                72,
+                30,
+                40,
+                2,
+                50,
+                50
+            ]
+        },
+        {
+            "name": "よもぎのフォッカチャ",
+            "info": "ふっくらしたよもぎ味のパン 温かい場所に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 55
+            },
+            "id": 4,
+            "type": 0,
+            "price": 100,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                1,
+                1
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0,
+                102,
+                101
+            ],
+            "effectValue": [
+                72,
+                30,
+                40,
+                2,
+                50,
+                80,
+                90
+            ]
+        },
+        {
+            "name": "あさつきのピロシキ",
+            "info": "具のたくさんつまった惣菜パン 寒い場所に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 64
+            },
+            "id": 5,
+            "type": 0,
+            "price": 100,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                1,
+                1
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0,
+                103,
+                100
+            ],
+            "effectValue": [
+                72,
+                30,
+                40,
+                2,
+                50,
+                80,
+                90
+            ]
+        },
+        {
+            "name": "にんじんぼうろ",
+            "info": "昔ながらの丸いぼうろ ほのかな酸味",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 60
+            },
+            "id": 6,
+            "type": 0,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                5,
+                5,
+                5,
+                5
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0,
+                500,
+                501,
+                502,
+                503
+            ],
+            "effectValue": [
+                24,
+                30,
+                40,
+                2,
+                40,
+                10,
+                20,
+                10,
+                50
+            ]
+        },
+        {
+            "name": "かぼちゃぼうろ",
+            "info": "昔ながらの丸いぼうろ ふわりと甘い",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 54
+            },
+            "id": 7,
+            "type": 0,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                5,
+                5,
+                5,
+                5
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0,
+                500,
+                501,
+                502,
+                503
+            ],
+            "effectValue": [
+                24,
+                30,
+                40,
+                2,
+                40,
+                10,
+                50,
+                10,
+                10
+            ]
+        },
+        {
+            "name": "えだまめぼうろ",
+            "info": "昔ながらの丸いぼうろ うっすら塩味",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 57
+            },
+            "id": 8,
+            "type": 0,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                5,
+                5,
+                5,
+                5
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0,
+                500,
+                501,
+                502,
+                503
+            ],
+            "effectValue": [
+                24,
+                30,
+                40,
+                2,
+                40,
+                10,
+                20,
+                50,
+                10
+            ]
+        },
+        {
+            "name": "ミルクぼうろ",
+            "info": "昔ながらの丸いぼうろ やさしい口どけ",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 50
+            },
+            "id": 9,
+            "type": 0,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                5,
+                5,
+                5,
+                5
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0,
+                500,
+                501,
+                502,
+                503
+            ],
+            "effectValue": [
+                24,
+                30,
+                40,
+                2,
+                40,
+                10,
+                20,
+                20,
+                20
+            ]
+        },
+        {
+            "name": "ごぼうぼうろ",
+            "info": "昔ながらの丸いぼうろ コクのある香り",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 63
+            },
+            "id": 10,
+            "type": 0,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                5,
+                5,
+                5,
+                5
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0,
+                500,
+                501,
+                502,
+                503
+            ],
+            "effectValue": [
+                24,
+                30,
+                40,
+                2,
+                40,
+                10,
+                10,
+                30,
+                30
+            ]
+        },
+        {
+            "name": "いちごの金平糖",
+            "info": "星のような砂糖菓子 甘酸っぱいいちご味",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 69
+            },
+            "id": 11,
+            "type": 0,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                0,
+                7,
+                5
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0,
+                1,
+                703,
+                503
+            ],
+            "effectValue": [
+                72,
+                30,
+                40,
+                2,
+                30,
+                50,
+                1,
+                -1
+            ]
+        },
+        {
+            "name": "レモンの金平糖",
+            "info": "星のような砂糖菓子 すっきりしたレモン味",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 72
+            },
+            "id": 12,
+            "type": 0,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                0,
+                7,
+                5
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0,
+                1,
+                703,
+                502
+            ],
+            "effectValue": [
+                72,
+                30,
+                40,
+                2,
+                30,
+                50,
+                1,
+                -1
+            ]
+        },
+        {
+            "name": "ぶどうの金平糖",
+            "info": "星のような砂糖菓子 みずみずしいぶどう味",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 75
+            },
+            "id": 13,
+            "type": 0,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                0,
+                7,
+                5
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0,
+                1,
+                703,
+                501
+            ],
+            "effectValue": [
+                72,
+                30,
+                40,
+                2,
+                30,
+                50,
+                1,
+                -1
+            ]
+        },
+        {
+            "name": "メロンの金平糖",
+            "info": "星のような砂糖菓子 まろやかなメロン味",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 78
+            },
+            "id": 14,
+            "type": 0,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                0,
+                7,
+                5
+            ],
+            "effectElm": [
+                2,
+                201,
+                202,
+                203,
+                0,
+                1,
+                703,
+                500
+            ],
+            "effectValue": [
+                72,
+                30,
+                40,
+                2,
+                30,
+                50,
+                1,
+                -1
+            ]
+        },
+        {
+            "name": "よつ葉",
+            "info": "めずらしいよつ葉のクローバー 幸運をもたらすと言われている",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 66
+            },
+            "id": 1000,
+            "type": 1,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                1,
+                2
+            ],
+            "effectElm": [
+                104,
+                200
+            ],
+            "effectValue": [
+                50,
+                50
+            ]
+        },
+        {
+            "name": "幸運の鈴",
+            "info": "ふると心地よい音を奏でる鈴 何かよいことがおきるらしい",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 70
+            },
+            "id": 1001,
+            "type": 1,
+            "price": 3000,
+            "spend": 0,
+            "effectType": [
+                2,
+                2
+            ],
+            "effectElm": [
+                200,
+                200
+            ],
+            "effectValue": [
+                30,
+                30
+            ]
+        },
+        {
+            "name": "黄色のお守り",
+            "info": "旅の安全を祈願したお守り 東の方角に行きやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 87
+            },
+            "id": 1002,
+            "type": 1,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                1
+            ],
+            "effectElm": [
+                100
+            ],
+            "effectValue": [
+                80
+            ]
+        },
+        {
+            "name": "白色のお守り",
+            "info": "旅の安全を祈願したお守り 西の方角に行きやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 90
+            },
+            "id": 1003,
+            "type": 1,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                1
+            ],
+            "effectElm": [
+                101
+            ],
+            "effectValue": [
+                80
+            ]
+        },
+        {
+            "name": "赤色のお守り",
+            "info": "旅の安全を祈願したお守り 南の方角に行きやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 81
+            },
+            "id": 1004,
+            "type": 1,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                1
+            ],
+            "effectElm": [
+                102
+            ],
+            "effectValue": [
+                80
+            ]
+        },
+        {
+            "name": "青色のお守り",
+            "info": "旅の安全を祈願したお守り 北の方角に行きやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 84
+            },
+            "id": 1005,
+            "type": 1,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                1
+            ],
+            "effectElm": [
+                103
+            ],
+            "effectValue": [
+                80
+            ]
+        },
+        {
+            "name": "桃色のお守り",
+            "info": "旅の安全を祈願したお守り 知らない場所に行きやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 93
+            },
+            "id": 1006,
+            "type": 1,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                1
+            ],
+            "effectElm": [
+                104
+            ],
+            "effectValue": [
+                80
+            ]
+        },
+        {
+            "name": "東国きっぷ",
+            "info": "東の方角にむかう特別な切符",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 98
+            },
+            "id": 1007,
+            "type": 1,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                1
+            ],
+            "effectElm": [
+                100
+            ],
+            "effectValue": [
+                -2
+            ]
+        },
+        {
+            "name": "西国きっぷ",
+            "info": "西の方角にむかう特別な切符",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 101
+            },
+            "id": 1008,
+            "type": 1,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                1
+            ],
+            "effectElm": [
+                101
+            ],
+            "effectValue": [
+                -2
+            ]
+        },
+        {
+            "name": "南国きっぷ",
+            "info": "南の方角にむかう特別な切符",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 103
+            },
+            "id": 1009,
+            "type": 1,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                1
+            ],
+            "effectElm": [
+                102
+            ],
+            "effectValue": [
+                -2
+            ]
+        },
+        {
+            "name": "北国きっぷ",
+            "info": "北の方角にむかう特別な切符",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 106
+            },
+            "id": 1010,
+            "type": 1,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                1
+            ],
+            "effectElm": [
+                103
+            ],
+            "effectValue": [
+                -2
+            ]
+        },
+        {
+            "name": "ナチュラルテント",
+            "info": "初心者でも扱えるお手軽テント 野営に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 91
+            },
+            "id": 2000,
+            "type": 2,
+            "price": 300,
+            "spend": 0,
+            "effectType": [
+                4,
+                3
+            ],
+            "effectElm": [
+                400,
+                300
+            ],
+            "effectValue": [
+                1,
+                20
+            ]
+        },
+        {
+            "name": "スタイリッシュテント",
+            "info": "愛用者多数のおしゃれテント 野営に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 94
+            },
+            "id": 2001,
+            "type": 2,
+            "price": 450,
+            "spend": 0,
+            "effectType": [
+                4,
+                3
+            ],
+            "effectElm": [
+                400,
+                300
+            ],
+            "effectValue": [
+                2,
+                30
+            ]
+        },
+        {
+            "name": "ハイテクテント",
+            "info": "熟練者も認める高機能テント 野営に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 96
+            },
+            "id": 2002,
+            "type": 2,
+            "price": 750,
+            "spend": 0,
+            "effectType": [
+                4,
+                3
+            ],
+            "effectElm": [
+                400,
+                300
+            ],
+            "effectValue": [
+                3,
+                50
+            ]
+        },
+        {
+            "name": "透明の器",
+            "info": "何かに使われていた透明容器 船旅に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 82
+            },
+            "id": 2003,
+            "type": 2,
+            "price": 450,
+            "spend": 0,
+            "effectType": [
+                4,
+                3
+            ],
+            "effectElm": [
+                401,
+                301
+            ],
+            "effectValue": [
+                1,
+                20
+            ]
+        },
+        {
+            "name": "木の器",
+            "info": "ご家庭でよくみかける木のお椀 船旅に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 85
+            },
+            "id": 2004,
+            "type": 2,
+            "price": 700,
+            "spend": 0,
+            "effectType": [
+                4,
+                3
+            ],
+            "effectElm": [
+                401,
+                301
+            ],
+            "effectValue": [
+                2,
+                30
+            ]
+        },
+        {
+            "name": "漆の器",
+            "info": "使うのが恐れ多い漆塗りのお椀 船旅に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 88
+            },
+            "id": 2005,
+            "type": 2,
+            "price": 1200,
+            "spend": 0,
+            "effectType": [
+                4,
+                3
+            ],
+            "effectElm": [
+                401,
+                301
+            ],
+            "effectValue": [
+                3,
+                50
+            ]
+        },
+        {
+            "name": "ろうそく",
+            "info": "それっぽい持ち手付のろうそく 探検に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 73
+            },
+            "id": 2006,
+            "type": 2,
+            "price": 600,
+            "spend": 0,
+            "effectType": [
+                4,
+                3
+            ],
+            "effectElm": [
+                402,
+                302
+            ],
+            "effectValue": [
+                1,
+                20
+            ]
+        },
+        {
+            "name": "手提げちょうちん",
+            "info": "時代に逆らう古いちょうちん 探検に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 76
+            },
+            "id": 2007,
+            "type": 2,
+            "price": 900,
+            "spend": 0,
+            "effectType": [
+                4,
+                3
+            ],
+            "effectElm": [
+                402,
+                302
+            ],
+            "effectValue": [
+                2,
+                30
+            ]
+        },
+        {
+            "name": "ランタン",
+            "info": "冒険心にも火を灯すランタン 探検に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 79
+            },
+            "id": 2008,
+            "type": 2,
+            "price": 1500,
+            "spend": 0,
+            "effectType": [
+                4,
+                3
+            ],
+            "effectElm": [
+                402,
+                302
+            ],
+            "effectValue": [
+                3,
+                50
+            ]
+        },
+        {
+            "name": "てぬぐい～地～",
+            "info": "ざらざらした質感のてぬぐい 町に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 99
+            },
+            "id": 2009,
+            "type": 2,
+            "price": 150,
+            "spend": 0,
+            "effectType": [
+                4,
+                3
+            ],
+            "effectElm": [
+                403,
+                398
+            ],
+            "effectValue": [
+                1,
+                15
+            ]
+        },
+        {
+            "name": "てぬぐい～木～",
+            "info": "木の気持ちになれるてぬぐい 町に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 102
+            },
+            "id": 2010,
+            "type": 2,
+            "price": 250,
+            "spend": 0,
+            "effectType": [
+                4,
+                3
+            ],
+            "effectElm": [
+                403,
+                398
+            ],
+            "effectValue": [
+                2,
+                20
+            ]
+        },
+        {
+            "name": "てぬぐい～装～",
+            "info": "ヤングに人気のイカすてぬぐい 町に出かけやすくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 104
+            },
+            "id": 2011,
+            "type": 2,
+            "price": 400,
+            "spend": 0,
+            "effectType": [
+                4,
+                3
+            ],
+            "effectElm": [
+                403,
+                398
+            ],
+            "effectValue": [
+                3,
+                30
+            ]
+        },
+        {
+            "name": "南部煎餅",
+            "info": "うす味の丸いおせんべい お料理にもつかえる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 116
+            },
+            "id": 3001,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                700
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "きりたんぽ",
+            "info": "ごはんを串に巻きつけた料理 お鍋との相性ばつぐん",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 117
+            },
+            "id": 3002,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                700
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "焼きまんじゅう",
+            "info": "甘いたれをぬったおもち 冷めないうちにめしあがれ",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 118
+            },
+            "id": 3005,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                700
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "五平餅",
+            "info": "甘辛いおこめの料理 こげめの部分までおいしい",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 119
+            },
+            "id": 3007,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                700
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "ういろう",
+            "info": "もっちりとした食感の和菓子 くせになる歯ごたえ",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 120
+            },
+            "id": 3009,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                700
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "五色豆",
+            "info": "カラフルな五色の豆菓子 食べだすととまらなくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 121
+            },
+            "id": 3010,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                700
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "瓦せんべい",
+            "info": "かわらみたいな形のおせんべい かわらほど固くはない",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 123
+            },
+            "id": 3011,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                700
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "かた焼き",
+            "info": "日本一かたいおせんべい 忍者の携帯食だったらしい",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 122
+            },
+            "id": 3012,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                700
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "やせうま",
+            "info": "麺にきなこをまぶしたお菓子 昔懐かしの地元の味",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 124
+            },
+            "id": 3017,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                700
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "かるかん",
+            "info": "ふわふわもちもちの白い和菓子 お茶うけにぴったり",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 125
+            },
+            "id": 3018,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                700
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "温泉まんじゅう",
+            "info": "ふっくらした黒糖まんじゅう 温泉地定番のお土産",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 126
+            },
+            "id": 3020,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                700,
+                704
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "こめ",
+            "info": "つやのあるおいしいお米 あらゆるおかずの引き立て役",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 62
+            },
+            "id": 4000,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                705
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "きゃべつ",
+            "info": "ずっしりと重たい野菜 緑色のものが新鮮",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 65
+            },
+            "id": 4001,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                701
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "たまねぎ",
+            "info": "皮に包まれた野菜 切ると涙がとまらなくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 68
+            },
+            "id": 4002,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                701
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "にんにく",
+            "info": "強烈なにおいを放つ野菜 元気をだしたいときにおすすめ",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 74
+            },
+            "id": 4003,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                701
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "らっきょう",
+            "info": "パリッとした歯ごたえの野菜 好みの味つけでお漬け物にも",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 71
+            },
+            "id": 4004,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                701
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "とうがらし",
+            "info": "ピリリと辛い野菜 辛いもの好きにはたまらない",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 77
+            },
+            "id": 4005,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                701
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "いちご",
+            "info": "甘酸っぱい果物 甘い香りがただよってくる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 80
+            },
+            "id": 4006,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                701
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "かき",
+            "info": "橙色の果実 栄養満点でお医者さんいらず",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 95
+            },
+            "id": 4007,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                702
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "くり",
+            "info": "イガにおおわれた果実 おいしく食べるには根気が必要",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 92
+            },
+            "id": 4008,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                702
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "バナナ",
+            "info": "なめらかな果肉の果物 食べおわったらすぐゴミ箱へ",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 97
+            },
+            "id": 4009,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                702
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "マンゴー",
+            "info": "濃厚な甘みの果物 しっとりしだしたら食べ頃",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 100
+            },
+            "id": 4010,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                702
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "みかん",
+            "info": "ほどよい酸味の果物 食べすぎで肌が黄色くなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 86
+            },
+            "id": 4011,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                702
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "もも",
+            "info": "芳醇な香りの果物 大昔からの吉祥の象徴",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 89
+            },
+            "id": 4012,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                702
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "りんご",
+            "info": "蜜のつまった甘い果実 長い歴史をもっているらしい",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 83
+            },
+            "id": 4013,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7,
+                7
+            ],
+            "effectElm": [
+                705,
+                702
+            ],
+            "effectValue": [
+                1,
+                1
+            ]
+        },
+        {
+            "name": "牛乳",
+            "info": "コクのある牛乳 飲めば骨が強くなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 56
+            },
+            "id": 4014,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                705
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "チーズ",
+            "info": "牛乳を発酵させた食品 さまざまな味に変化する",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 59
+            },
+            "id": 4015,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                705
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "茶葉",
+            "info": "よく飲まれる種類のお茶 こだわるほどにおいしくなる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 53
+            },
+            "id": 4016,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                705
+            ],
+            "effectValue": [
+                1
+            ]
+        },
+        {
+            "name": "みず",
+            "info": "口あたりのよい水 素材の味を引きだしてくれる",
+            "img": 
+            {
+                "m_FileID": 0,
+                "m_PathID": 46
+            },
+            "id": 4017,
+            "type": 3,
+            "price": 0,
+            "spend": 1,
+            "effectType": [
+                7
+            ],
+            "effectElm": [
+                705
+            ],
+            "effectValue": [
+                1
+            ]
+        }
+    ]
+}

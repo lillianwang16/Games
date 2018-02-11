@@ -1,0 +1,3028 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "plug": [
+                40,
+                0
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "p_sea01_b",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1,
+            "plug": [
+                0,
+                1
+            ],
+            "wayType": 3,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town",
+            "uniqueTag": "p_city",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 2,
+            "plug": [
+                1,
+                2
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3,
+            "plug": [
+                2,
+                4
+            ],
+            "wayType": 3,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_cave",
+            "uniqueTag": "p_mouse_lost",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 4,
+            "plug": [
+                4,
+                5
+            ],
+            "wayType": 3,
+            "time": 60,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_cave",
+            "uniqueTag": "p_mouse_meal",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 5,
+            "plug": [
+                5,
+                7
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea01_b",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 6,
+            "plug": [
+                7,
+                8
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "p_sea01_b",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 7,
+            "plug": [
+                8,
+                9
+            ],
+            "wayType": 3,
+            "time": 5,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town",
+            "uniqueTag": "p_city",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 8,
+            "plug": [
+                9,
+                13
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 9,
+            "plug": [
+                13,
+                11
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_sun",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 10,
+            "plug": [
+                2,
+                11
+            ],
+            "wayType": 1,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_lost",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 11,
+            "plug": [
+                10,
+                11
+            ],
+            "wayType": 2,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_ant",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 12,
+            "plug": [
+                8,
+                10
+            ],
+            "wayType": 2,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_river",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 13,
+            "plug": [
+                10,
+                5
+            ],
+            "wayType": 2,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_clab_meal",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 14,
+            "plug": [
+                5,
+                6
+            ],
+            "wayType": 1,
+            "time": 15,
+            "plusTime": 45,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 15,
+            "plug": [
+                11,
+                12
+            ],
+            "wayType": 3,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_cave",
+            "uniqueTag": "p_mouse_lost",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 16,
+            "plug": [
+                13,
+                14
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea01",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 17,
+            "plug": [
+                14,
+                15
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "p_sea01",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 18,
+            "plug": [
+                15,
+                22
+            ],
+            "wayType": 2,
+            "time": 120,
+            "plusTime": 120,
+            "normalTag": "p_island01",
+            "toolsTag": "p_river",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 19,
+            "plug": [
+                15,
+                16
+            ],
+            "wayType": 2,
+            "time": 120,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_river",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 20,
+            "plug": [
+                16,
+                17
+            ],
+            "wayType": 0,
+            "time": 15,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 21,
+            "plug": [
+                17,
+                18
+            ],
+            "wayType": 1,
+            "time": 90,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_shop",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 22,
+            "plug": [
+                18,
+                3
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_mouse_shop",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 23,
+            "plug": [
+                3,
+                2
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_meal01",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 24,
+            "plug": [
+                17,
+                21
+            ],
+            "wayType": 0,
+            "time": 5,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 25,
+            "plug": [
+                17,
+                19
+            ],
+            "wayType": 2,
+            "time": 120,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_rain",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 26,
+            "plug": [
+                19,
+                20
+            ],
+            "wayType": 2,
+            "time": 120,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_rain",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 27,
+            "plug": [
+                19,
+                13
+            ],
+            "wayType": 1,
+            "time": 120,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_move",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 28,
+            "plug": [
+                16,
+                23
+            ],
+            "wayType": 0,
+            "time": 120,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 29,
+            "plug": [
+                23,
+                24
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 30,
+            "plug": [
+                24,
+                25
+            ],
+            "wayType": 0,
+            "time": 15,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 31,
+            "plug": [
+                25,
+                26
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 32,
+            "plug": [
+                26,
+                27
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 33,
+            "plug": [
+                26,
+                28
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 34,
+            "plug": [
+                28,
+                29
+            ],
+            "wayType": 0,
+            "time": 5,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 35,
+            "plug": [
+                28,
+                30
+            ],
+            "wayType": 2,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 36,
+            "plug": [
+                30,
+                31
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 37,
+            "plug": [
+                31,
+                32
+            ],
+            "wayType": 0,
+            "time": 15,
+            "plusTime": 0,
+            "normalTag": "p_sea01",
+            "toolsTag": "p_town01",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 38,
+            "plug": [
+                32,
+                33
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea01",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 39,
+            "plug": [
+                33,
+                35
+            ],
+            "wayType": 3,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town",
+            "uniqueTag": "p_city01",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 40,
+            "plug": [
+                35,
+                25
+            ],
+            "wayType": 2,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "p_clab_move",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 41,
+            "plug": [
+                25,
+                44
+            ],
+            "wayType": 0,
+            "time": 90,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 42,
+            "plug": [
+                44,
+                43
+            ],
+            "wayType": 2,
+            "time": 720,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_clab_move",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 43,
+            "plug": [
+                37,
+                43
+            ],
+            "wayType": 2,
+            "time": 720,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_river",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 44,
+            "plug": [
+                37,
+                36
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 45,
+            "plug": [
+                33,
+                36
+            ],
+            "wayType": 3,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town",
+            "uniqueTag": "p_city",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 46,
+            "plug": [
+                33,
+                34
+            ],
+            "wayType": 2,
+            "time": 720,
+            "plusTime": 120,
+            "normalTag": "p_island01",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_clab_shop",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 47,
+            "plug": [
+                36,
+                38
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea01_b",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 48,
+            "plug": [
+                38,
+                39
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "p_sea01_b",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 49,
+            "plug": [
+                39,
+                40
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "p_sea01_b",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 50,
+            "plug": [
+                40,
+                41
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "p_shop",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 51,
+            "plug": [
+                41,
+                42
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_meal",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 52,
+            "plug": [
+                42,
+                43
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_mouse",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1000,
+            "plug": [
+                1015,
+                1017
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "p_sea02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1001,
+            "plug": [
+                1000,
+                1020
+            ],
+            "wayType": 3,
+            "time": 45,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_town",
+            "uniqueTag": "p_city",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 1002,
+            "plug": [
+                1020,
+                1009
+            ],
+            "wayType": 2,
+            "time": 45,
+            "plusTime": 90,
+            "normalTag": "",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_shop",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 1003,
+            "plug": [
+                1009,
+                1010
+            ],
+            "wayType": 0,
+            "time": 15,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1004,
+            "plug": [
+                1010,
+                1011
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1005,
+            "plug": [
+                1011,
+                1016
+            ],
+            "wayType": 1,
+            "time": 45,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1006,
+            "plug": [
+                1016,
+                1015
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_shop",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1007,
+            "plug": [
+                1015,
+                1014
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "p_sea02_b",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1008,
+            "plug": [
+                1014,
+                1012
+            ],
+            "wayType": 1,
+            "time": 45,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_move",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1009,
+            "plug": [
+                1011,
+                1012
+            ],
+            "wayType": 2,
+            "time": 180,
+            "plusTime": 120,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_butterfly_lost",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 1010,
+            "plug": [
+                1012,
+                1013
+            ],
+            "wayType": 2,
+            "time": 90,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_river",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 1011,
+            "plug": [
+                1013,
+                1007
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea02_b",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1012,
+            "plug": [
+                1007,
+                1008
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea02_b",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1013,
+            "plug": [
+                1007,
+                1006
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1014,
+            "plug": [
+                1006,
+                1009
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_meal01",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1015,
+            "plug": [
+                1006,
+                1005
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1016,
+            "plug": [
+                1005,
+                1002
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1017,
+            "plug": [
+                1002,
+                1003
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "p_sea02",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1018,
+            "plug": [
+                1003,
+                1004
+            ],
+            "wayType": 2,
+            "time": 45,
+            "plusTime": 90,
+            "normalTag": "p_sea02",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_ant",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 1019,
+            "plug": [
+                1002,
+                1000
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1020,
+            "plug": [
+                1000,
+                1001
+            ],
+            "wayType": 1,
+            "time": 90,
+            "plusTime": 60,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_mouse",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1021,
+            "plug": [
+                1020,
+                1019
+            ],
+            "wayType": 2,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_clab_move",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 1022,
+            "plug": [
+                1019,
+                1017
+            ],
+            "wayType": 3,
+            "time": 15,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town",
+            "uniqueTag": "p_city01",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 1023,
+            "plug": [
+                1017,
+                1018
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1024,
+            "plug": [
+                1018,
+                1009
+            ],
+            "wayType": 1,
+            "time": 15,
+            "plusTime": 45,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1025,
+            "plug": [
+                1017,
+                1021
+            ],
+            "wayType": 0,
+            "time": 15,
+            "plusTime": 0,
+            "normalTag": "p_mt02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1026,
+            "plug": [
+                1021,
+                1024
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1027,
+            "plug": [
+                1024,
+                1025
+            ],
+            "wayType": 1,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1028,
+            "plug": [
+                1025,
+                1026
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "p_sea02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1029,
+            "plug": [
+                1026,
+                1027
+            ],
+            "wayType": 0,
+            "time": 8,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1030,
+            "plug": [
+                1027,
+                1028
+            ],
+            "wayType": 0,
+            "time": 90,
+            "plusTime": 0,
+            "normalTag": "p_sea02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1031,
+            "plug": [
+                1028,
+                1029
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1032,
+            "plug": [
+                1029,
+                1030
+            ],
+            "wayType": 3,
+            "time": 75,
+            "plusTime": 120,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_cave",
+            "uniqueTag": "p_mouse_lost",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 1033,
+            "plug": [
+                1027,
+                1032
+            ],
+            "wayType": 0,
+            "time": 75,
+            "plusTime": 0,
+            "normalTag": "p_mt02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1034,
+            "plug": [
+                1032,
+                1031
+            ],
+            "wayType": 0,
+            "time": 15,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1035,
+            "plug": [
+                1031,
+                1022
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "p_sea02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1036,
+            "plug": [
+                1021,
+                1022
+            ],
+            "wayType": 3,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea02",
+            "toolsTag": "p_town",
+            "uniqueTag": "p_city",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 1037,
+            "plug": [
+                1022,
+                1023
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "p_island02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1038,
+            "plug": [
+                1015,
+                1023
+            ],
+            "wayType": 2,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_island02",
+            "toolsTag": "p_river",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 1039,
+            "plug": [
+                1023,
+                1034
+            ],
+            "wayType": 0,
+            "time": 75,
+            "plusTime": 0,
+            "normalTag": "p_island02",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1040,
+            "plug": [
+                1033,
+                1034
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "p_island02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1041,
+            "plug": [
+                1031,
+                1033
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1042,
+            "plug": [
+                1031,
+                1042
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1043,
+            "plug": [
+                1042,
+                1039
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "p_island02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1044,
+            "plug": [
+                1039,
+                1038
+            ],
+            "wayType": 1,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_meal",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1045,
+            "plug": [
+                1038,
+                1036
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1046,
+            "plug": [
+                1036,
+                1037
+            ],
+            "wayType": 3,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "",
+            "toolsTag": "p_cave",
+            "uniqueTag": "p_mouse_meal",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 1047,
+            "plug": [
+                1036,
+                1035
+            ],
+            "wayType": 1,
+            "time": 45,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_sun",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1048,
+            "plug": [
+                1035,
+                1034
+            ],
+            "wayType": 1,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_mouse_shop",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 1049,
+            "plug": [
+                1033,
+                1040
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1050,
+            "plug": [
+                1040,
+                1039
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1051,
+            "plug": [
+                1039,
+                1041
+            ],
+            "wayType": 3,
+            "time": 8,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town",
+            "uniqueTag": "p_city",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 1052,
+            "plug": [
+                1042,
+                1043
+            ],
+            "wayType": 3,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town",
+            "uniqueTag": "p_city",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 1053,
+            "plug": [
+                1043,
+                1044
+            ],
+            "wayType": 2,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_island02",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_clab_lost",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 1054,
+            "plug": [
+                1043,
+                1045
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1055,
+            "plug": [
+                1045,
+                1046
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 1056,
+            "plug": [
+                1046,
+                1047
+            ],
+            "wayType": 3,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_cave",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 2000,
+            "plug": [
+                2026,
+                2000
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2001,
+            "plug": [
+                2000,
+                2001
+            ],
+            "wayType": 3,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town",
+            "uniqueTag": "p_city01",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 2002,
+            "plug": [
+                2001,
+                2002
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2003,
+            "plug": [
+                2002,
+                2003
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2004,
+            "plug": [
+                2003,
+                2004
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_mt02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2005,
+            "plug": [
+                2004,
+                2005
+            ],
+            "wayType": 3,
+            "time": 15,
+            "plusTime": 45,
+            "normalTag": "p_sea02",
+            "toolsTag": "p_cave",
+            "uniqueTag": "p_mouse_lost",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 2006,
+            "plug": [
+                2004,
+                2006
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_mt02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2007,
+            "plug": [
+                2006,
+                2007
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_mt02",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2008,
+            "plug": [
+                2007,
+                2008
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2009,
+            "plug": [
+                2008,
+                2009
+            ],
+            "wayType": 2,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_sea02_b",
+            "toolsTag": "p_river",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 2010,
+            "plug": [
+                2008,
+                2010
+            ],
+            "wayType": 2,
+            "time": 45,
+            "plusTime": 90,
+            "normalTag": "p_sea02_b",
+            "toolsTag": "p_river",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 0,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 2011,
+            "plug": [
+                2010,
+                2011
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "p_sea02_b",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2012,
+            "plug": [
+                2011,
+                2012
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "p_island02",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2013,
+            "plug": [
+                2012,
+                2013
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "p_meal01",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2014,
+            "plug": [
+                2013,
+                2002
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2015,
+            "plug": [
+                2012,
+                2014
+            ],
+            "wayType": 1,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_clab_lost",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 2016,
+            "plug": [
+                2014,
+                2015
+            ],
+            "wayType": 2,
+            "time": 120,
+            "plusTime": 120,
+            "normalTag": "p_island02",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_clab_shop",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 2017,
+            "plug": [
+                2014,
+                2016
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea02",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2018,
+            "plug": [
+                2016,
+                2017
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_mouse_shop",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 2019,
+            "plug": [
+                2017,
+                2018
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2020,
+            "plug": [
+                2018,
+                2019
+            ],
+            "wayType": 1,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_mouse",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 2021,
+            "plug": [
+                2019,
+                2020
+            ],
+            "wayType": 1,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_move",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 2022,
+            "plug": [
+                2020,
+                2012
+            ],
+            "wayType": 1,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_lost",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 2023,
+            "plug": [
+                2019,
+                2021
+            ],
+            "wayType": 2,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_clab_move",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 2024,
+            "plug": [
+                2021,
+                2022
+            ],
+            "wayType": 1,
+            "time": 45,
+            "plusTime": 90,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_meal",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 2025,
+            "plug": [
+                2022,
+                2023
+            ],
+            "wayType": 0,
+            "time": 15,
+            "plusTime": 0,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 2026,
+            "plug": [
+                2023,
+                2024
+            ],
+            "wayType": 2,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_ant",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 2027,
+            "plug": [
+                2024,
+                2025
+            ],
+            "wayType": 1,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt02",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_shop",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 2028,
+            "plug": [
+                2025,
+                2026
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3000,
+            "plug": [
+                3021,
+                3022
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea01_b",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3001,
+            "plug": [
+                3000,
+                3002
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3002,
+            "plug": [
+                3002,
+                3003
+            ],
+            "wayType": 0,
+            "time": 15,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3003,
+            "plug": [
+                3003,
+                3004
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3004,
+            "plug": [
+                3004,
+                3005
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3005,
+            "plug": [
+                3005,
+                3006
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3006,
+            "plug": [
+                3006,
+                3007
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3007,
+            "plug": [
+                3007,
+                3008
+            ],
+            "wayType": 1,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_meal",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 3008,
+            "plug": [
+                3008,
+                3000
+            ],
+            "wayType": 1,
+            "time": 45,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_shop",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 3009,
+            "plug": [
+                3000,
+                3001
+            ],
+            "wayType": 3,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea01",
+            "toolsTag": "p_town",
+            "uniqueTag": "p_city01",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 3010,
+            "plug": [
+                3000,
+                3009
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3011,
+            "plug": [
+                3009,
+                3010
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 0,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3012,
+            "plug": [
+                3010,
+                3011
+            ],
+            "wayType": 2,
+            "time": 45,
+            "plusTime": 90,
+            "normalTag": "",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_clab_meal",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 3013,
+            "plug": [
+                3011,
+                3013
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3014,
+            "plug": [
+                3013,
+                3014
+            ],
+            "wayType": 0,
+            "time": 60,
+            "plusTime": 0,
+            "normalTag": "",
+            "toolsTag": "p_town01",
+            "uniqueTag": "p_city02",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3015,
+            "plug": [
+                3014,
+                3015
+            ],
+            "wayType": 0,
+            "time": 45,
+            "plusTime": 0,
+            "normalTag": "p_mt01",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3016,
+            "plug": [
+                3015,
+                3017
+            ],
+            "wayType": 1,
+            "time": 45,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_rain",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 3017,
+            "plug": [
+                3017,
+                3018
+            ],
+            "wayType": 1,
+            "time": 45,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_lost",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 3018,
+            "plug": [
+                3018,
+                3019
+            ],
+            "wayType": 0,
+            "time": 105,
+            "plusTime": 0,
+            "normalTag": "p_mt01",
+            "toolsTag": "",
+            "uniqueTag": "p_sun",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3019,
+            "plug": [
+                3019,
+                3020
+            ],
+            "wayType": 1,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_mouse",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 3020,
+            "plug": [
+                3020,
+                3011
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_mt01",
+            "toolsTag": "",
+            "uniqueTag": "p_meal01",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3021,
+            "plug": [
+                3011,
+                3012
+            ],
+            "wayType": 3,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "",
+            "toolsTag": "p_cave",
+            "uniqueTag": "p_mouse_meal",
+            "nTagPer": 0,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ねずみ",
+            "enc_per": 10
+        },
+        {
+            "id": 3022,
+            "plug": [
+                3015,
+                3016
+            ],
+            "wayType": 2,
+            "time": 30,
+            "plusTime": 90,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_clab_move",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 3023,
+            "plug": [
+                3019,
+                3021
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_mt01",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3024,
+            "plug": [
+                3021,
+                3023
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea01_b",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3025,
+            "plug": [
+                3023,
+                3024
+            ],
+            "wayType": 0,
+            "time": 30,
+            "plusTime": 0,
+            "normalTag": "p_sea01_b",
+            "toolsTag": "",
+            "uniqueTag": "",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 0,
+            "enc_name": "",
+            "enc_per": 0
+        },
+        {
+            "id": 3026,
+            "plug": [
+                3024,
+                3025
+            ],
+            "wayType": 2,
+            "time": 90,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_river",
+            "uniqueTag": "p_clab_meal",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "かに",
+            "enc_per": 10
+        },
+        {
+            "id": 3027,
+            "plug": [
+                3025,
+                3007
+            ],
+            "wayType": 1,
+            "time": 60,
+            "plusTime": 120,
+            "normalTag": "p_mt01",
+            "toolsTag": "p_mt",
+            "uniqueTag": "p_butterfly_move",
+            "nTagPer": 40,
+            "tTagPer": 20,
+            "uTagPer": 15,
+            "enc_name": "ちょう",
+            "enc_per": 10
+        },
+        {
+            "id": 3028,
+            "plug": [
+                3007,
+                3019
+            ],
+            "wayType": 0,
+            "time": 90,
+            "plusTime": 0,
+            "normalTag": "p_mt01",
+            "toolsTag": "",
+            "uniqueTag": "p_mouse_shop",
+            "nTagPer": 40,
+            "tTagPer": 0,
+            "uTagPer": 15,
+            "enc_name": "",
+            "enc_per": 0
+        }
+    ]
+}

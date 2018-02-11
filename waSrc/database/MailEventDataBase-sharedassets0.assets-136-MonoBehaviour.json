@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "title": "チュートリアル達成",
+            "message": "",
+            "id": 0,
+            "senderCharaId": -1,
+            "mailEvt": 3,
+            "CloverPoint": 500,
+            "ticket": 0,
+            "itemId": -1,
+            "itemStock": 0,
+            "mailId": 0,
+            "opened": 0,
+            "protect": 0
+        },
+        {
+            "title": "チュートリアル達成",
+            "message": "",
+            "id": 1,
+            "senderCharaId": -1,
+            "mailEvt": 3,
+            "CloverPoint": 0,
+            "ticket": 0,
+            "itemId": 1000,
+            "itemStock": 1,
+            "mailId": 0,
+            "opened": 0,
+            "protect": 0
+        }
+    ]
+}
